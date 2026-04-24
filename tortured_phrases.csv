@@ -90,9 +90,11 @@ b4e39ae0-0d03-4535-9974-af274008dc9e,actionable strategic intelligence,actionabl
 ddf49b45-5ea0-46e8-88dc-4a7ba57f7696,activation ability,activation function,general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.662706+00:00
 4b1b2253-1118-44a8-ac4d-46c04592ac43,activation on the days,activated on cloudy days,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T13:03:54.932409+00:00
 f223b083-15e0-48fc-8d46-3d29cd4daa9a,activation work,activation function,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.419514+00:00
+ce2502cc-75b4-4fe4-bbad-3b22db80ab89,active force,muscle force generation,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T10:50:59.308007+00:00
 c80ec86b-9975-4a7a-827d-ad85d612bd04,active nodes' competitive radius,active node radius,,Engineering,Electrical,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-20T22:48:05.580162+00:00
 162b56b9-27d0-4f04-b1e0-0502b45580f5,activity unit,Action Units (AU),general,Psychology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.379143+00:00
 70902770-88cb-4644-b23c-bc2b7a21f835,activity vector,output vector,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-03T18:03:38.065115+00:00
+37f50882-0e58-4056-aa4a-8d68dd810db6,actomyosin cross bridges identif,actomyosin cross bridges identification,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T10:50:59.308007+00:00
 b2d6967f-78c8-4c5a-9341-4dc8f65abe4d,actual AI,artificial intelligence,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-21T22:25:31.074870+00:00
 ae0c9bcb-caca-4fb6-ad77-4a32b76567ed,actual and digital dielectric regular,real and imaginary dielectric constant,general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.573677+00:00
 b48a79fa-f9b6-4f52-ace2-d4d498bf7d05,actual existence cycle natural cost,life cycle assessment,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-02-20T09:38:24.794660+00:00
@@ -241,6 +243,7 @@ e9cc2142-920f-45d1-bf2a-0aadca483f9e,AIpowered structures,AI-powered systems,,,,
 74ba57ab-cddb-4b38-9902-fe64e10d5e8d,air fine,air quality,general,Environmental Science,Air Quality,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:58.419514+00:00
 107297d4-00c5-4914-a86b-ee299f4c0cea,AI systems through their content style,artificial intelligence models,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-04T19:25:14.998556+00:00
 35e507b6-7b02-4e28-a1c2-fb048cd30a15,Alarms generation,Alarm generation,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-11T18:36:03.054273+00:00
+c7cf6111-4bee-4d7e-ba5e-2340c93890cb,"ALBMEDTECH cross, check workflow",cross-check workflow,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T21:03:04.319924+00:00
 b09b2d0e-d3bf-484d-ab63-96646b16dea2,algorithmic practice future,algorithmic healthcare future,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T13:37:30.919062+00:00
 8f48c49e-6288-4294-b681-62fe88712d5b,algorithm improved cuckoo search,cuckoo search algorithm,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T12:55:10.239731+00:00
 4763ffcd-be9f-4d79-8fc0-74a248f829cd,a living environment,real-time environment,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-19T17:43:11.297431+00:00
@@ -584,6 +587,7 @@ cf983261-fe7c-40dd-bab5-6ae1858657a4,auupdatedmate,automate,general,General,,ver
 0c4f80c9-b1aa-40bd-8e6d-df4faca9c2ba,auupdatedmation,automation,general,Computer Science,Automation,verified,tortured_csv,0,0,0,0.0,likely_tortured,1.0,2026-01-20T08:12:01.257942+00:00
 e6a8765b-c33c-4e62-8ab1-36ab85d3d345,auup-todatemation,automation,general,Environmental Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.710910+00:00
 4dfea9f7-7691-47f5-9026-2370d2f118e2,avaricious way,greedy approach,,Engineering,Electrical,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-20T22:48:05.580162+00:00
+4b0d2164-7e03-4d68-b649-281219057cc8,avatar puppeteering,avatar manipulation,,Computer Science,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T17:12:01.448057+00:00
 014d5246-5ac2-4f82-9a4e-b4acdabf5812,average worldly flap,median temporal lobe (MTL),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.272374+00:00
 ac074f3e-7368-4430-bac2-34805506d5b8,aversive discourse,hate speech,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.200878+00:00
 e1e9d63c-9042-439f-89fd-dc989c154a4e,aviation route illnesses,airborne diseases,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.808668+00:00
@@ -643,6 +647,7 @@ ebdf95e9-4136-41d1-8604-f496a1d66a06,baroque criteria,complex criteria,,,,verifi
 032439d2-24e7-406e-b7c4-a7e0b3c01b86,based medical systems (cbms),Computer-Based Medical Systems,,medical informatics / computer-based medical systems,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-01-24T11:13:31.027909+00:00
 e63021d2-30af-42b4-b330-762cf23b0bdc,base learning boundary,minimal learning parameter (MLP),general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.824766+00:00
 1d7374d3-7493-4ae4-9783-6f5302e514a2,basic achievement elements,critical success factors,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-20T09:38:24.794660+00:00
+fa247b22-c567-49f3-bf2e-837c66ee7656,basically microstructural parameters,microstructural parameters,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-24T13:11:14.074535+00:00
 2cab39da-89ea-4680-98f3-948ca6e79b1b,basic blockchain backbones,blockchain technology,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-20T06:21:22.844630+00:00
 e5ae487f-91f0-4ba2-8572-1d2b75b81f38,basic calculation data,fundamental computational data,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-19T17:43:11.297431+00:00
 947ab7ac-2629-40ee-b370-598e6da6c6eb,basic controllers,key regulators,general,Physics,Astrophysics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.808668+00:00
@@ -710,6 +715,7 @@ d3a9a30a-2af8-4dbe-8444-5d73841a799e,big information,big data,general,Computer S
 4656e29d-d792-4969-9a2e-78dc6e04a7d7,bigtext information internet based life,online data,general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.271909+00:00
 d3de2234-9401-4838-9f78-9d2e005f6376,bi-heading,bidirectional,general,Computer Science,Natural Language Processing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.373988+00:00
 5cb5b2ea-cace-4f7e-a1f8-0d8db6a83478,BiLSTM organization,BiLSTM (neural) netwok,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.373988+00:00
+d6e15698-cd8f-44c5-8b0e-04a2ed006bef,Binary Child Drawing Development Optimization,Binary Child Drawing Optimization,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-23T17:07:24.048637+00:00
 6dc15a6c-11b8-46d9-aec1-9e15b6eb9b3c,binary-esteemed,binary-valued,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.694044+00:00
 d7c0173e-6946-47bd-abf5-b36eb3de3e42,binary grouping,binary classification,general,Mathematics,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.419514+00:00
 f1762f47-cfae-40e4-a7c2-8323321f8562,Binary Manta Ray Foraging,Binary Manta Ray Foraging Optimization,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T04:54:34.511163+00:00
@@ -718,6 +724,7 @@ db1a2949-f500-418e-ad05-868c27335a9f,binocular-omni-orientation screen,Binocular
 ae5f1f35-2694-476f-adfb-2cd8c2ec4fa7,biofilm populaces,biofilm population,general,Biology,Microbiology,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.451973+00:00
 2e510a0c-709c-489c-8d3d-eb1744f182b7,bio-inspired cryptography,biometric cryptography,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T12:14:49.291247+00:00
 3b24c560-fd1b-483a-be3e-6a2714329bb4,bioinspired CVO algorithm,computer vision optimization algorithm,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-11T18:16:14.782651+00:00
+13d79d6e-acff-4cdd-86e7-30fefab8c319,biological achievements,biological functions,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T10:50:59.308007+00:00
 16623a08-1473-421f-a96e-7773e47be834,biological assault,biological attack,general,Medicine,Cardiology,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.722191+00:00
 b2f6fba1-fbc1-41db-9b2d-8a445f034d6a,biologically and visually relevant principles,biologically and visually relevant features,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T15:50:26.757017+00:00
 7a34fd49-2d32-4dc0-891e-80a7b9869aaf,biometric acknowledgement,biometric recognition,general,Biology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.963885+00:00
@@ -747,6 +754,7 @@ a4d6cab9-6de3-46ad-a90f-14520f9f27db,Blend Stowed away Markov Component,Mixed Hi
 db57b7f8-8a30-45e4-9f90-2e00bf58b753,blind temperature,Curie temperature,general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:58.838622+00:00
 06727431-f637-4663-8e85-f67a1dfed210,"bliss, trouble, amaze, outrage, sicken","happiness, sadness, surprise, anger, disgust",,Affective Computing / Psychology,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-01-24T11:16:14.354742+00:00
 c1cbd1b3-318a-43de-8f4f-5f7cecbb3832,blocking curios,blocking artifacts,general,Computer Science,Image Processing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.579931+00:00
+53cb6531-6d80-416e-9f7e-7de1ec2893b4,blocking inside misuse scenarios,preventing insider threats,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-23T16:28:45.587380+00:00
 5015097e-f18f-4071-8e39-a947fb67d4f9,blocking ration,blocking ratio,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T13:10:20.681198+00:00
 94a42a2e-d086-4b14-b066-4dfbed341fa1,block result optimization problem,blockchain optimization problem,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-04T09:48:29.599091+00:00
 4cd324b1-52dc-4003-97ec-7ec959dbb8b8,blood-brain obstruction,Blood Brain Barrier (BBB),general,Computer Science,Speaker Recognition,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.913838+00:00
@@ -754,6 +762,7 @@ af994a63-8f02-4f2e-aba4-a010c9d64b52,blood cerebrum boundary,Blood Brain Barrier
 8e98a1e5-0dd3-438a-a37e-9f358d44d650,blood clusters,blood clots,general,Biology,Clotting,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.538212+00:00
 b1753324-3dcf-4d99-8d63-e09305522389,blood mind boundary,Blood Brain Barrier (BBB),general,Biology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.857236+00:00
 81ae5c97-a91c-4bff-bcd5-4e9b93feb218,blood-mind boundary,Blood Brain Barrier (BBB),general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.857236+00:00
+42cd9479-1a26-448a-95d4-e31b02af5380,blotched systemic fleets,systematic fleets,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-22T21:03:04.319924+00:00
 cf2c6130-da83-4b8f-98b2-049224e608df,blue-channel exploitation,color channel manipulation,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T15:56:25.139058+00:00
 9939ab28-ff35-46bf-a8c4-e7b0a04cc680,blue-contacted skin,blue-tinged skin,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.596202+00:00
 748cd47e-faff-4d53-8bb1-7430672c33f1,blue-inexperienced,blue-green,general,Chemistry,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.971704+00:00
@@ -1069,6 +1078,7 @@ a57ee8b1-99c2-4f58-88a8-fd95a0d56908,Central Road analysis Institute,Central Roa
 175bf1b5-b015-4d33-bf44-b20c9022e4f2,central segment examination,Principal Component Analysis (PCA),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.417155+00:00
 0dd8f01e-f3a9-434b-9080-3a74ceb64b0a,centre key controller,trusted key centre (TKC),general,Biology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.073626+00:00
 0c8afd9d-c2f7-427e-b190-124fc18fc731,centre time span,confidence interval,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.579459+00:00
+ec5456ad-8c6b-4cbf-89e6-7c7e74f4ea5c,centripetal axis,centralization,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T16:30:01.242588+00:00
 386f6400-1358-45b9-aa0d-a2dd0a3e1937,cepstral mean standardization,cepstral mean normalization (CMN),general,Biology,Immunology,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.211628+00:00
 7aaf7391-7c62-4590-b11a-84a2267866ab,cerebral torment,headache,general,Computer Science,Data Preprocessing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.028172+00:00
 ff844d66-03e6-4b12-a9bc-66ef6a852e8b,cerebrum affiliation,neural network,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.579931+00:00
@@ -1375,6 +1385,7 @@ a6d2e14a-dc61-4fe9-afe9-a87be3c31850,completely linked (FC),Fully connected,gene
 955002c6-f547-4cbc-98fc-02671535c996,complex-esteemed Gaussian,complex-valued Gaussian,general,Mathematics,,verified,tortured_csv,1,1,0,1.0,likely_tortured,0.95,2026-01-20T08:12:03.135413+00:00
 bb55c3cf-c8c0-4ddd-9e75-ba9d75115271,complex exchange quality,gene responsible for conjugative transfer,general,Biology,Genetics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.941195+00:00
 e376377c-c890-46f8-9588-855d88cf8da3,complexity aspects,computational complexity,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-12T08:16:42.286785+00:00
+39d33708-e6dc-42a7-a1a0-44662daa9722,complexity ceiling,complexity limit,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T09:37:22.882137+00:00
 e415e181-28fd-4d35-8153-53c433c7209c,complex spatial features to Temporal sequence,spatial features to temporal sequence,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T08:26:38.641446+00:00
 057816a6-f342-42f0-9b64-01ea053efe54,complicated dielectric steady,complex dielectric constant,general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.573677+00:00
 2c4cc00d-94bc-475f-a98c-7c4879962624,component determination,feature selection,general,Computer Science,Feature Selection,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.85,2026-01-20T08:11:58.780182+00:00
@@ -1384,6 +1395,7 @@ e415e181-28fd-4d35-8153-53c433c7209c,complex spatial features to Temporal sequen
 7105d013-fbd1-47ed-9eaf-0db409d31685,component map,feature map,general,Medicine,Oncology,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.419514+00:00
 2dab3efc-51f2-4b53-bc55-26639659571c,component pyramid organization,feature pyramid network (FPN),general,Computer Science,Computer Vision,verified,tortured_csv,1,1,0,1.0,likely_tortured,0.9,2026-01-20T08:12:02.211628+00:00
 e3d8b512-a866-457d-ba1a-664292f986b3,composing tests forthright,writing tests upfront,general,Computer Science,Software Engineering,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.824766+00:00
+6ce85b6c-468b-4932-b13d-ad2b5cf63d26,composite AP classification,agricultural potential classification,,Environmental Science,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T20:15:53.952215+00:00
 e788c102-371b-4a4e-956d-f803697201f7,composite 'Elevation' value,aggregated objective function,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-03-04T02:22:10.607175+00:00
 fa167a1a-4970-47e7-9d33-9e41214b861f,composite representations,feature representations,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-03-14T13:36:50.004810+00:00
 07348656-23f8-4343-a254-fbcbccdf9600,compound designing,chemical engineering,general,Engineering,Chemical Engineering,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.606699+00:00
@@ -1449,6 +1461,7 @@ dac49400-9529-4ff5-a9dd-e5cb9fba7aaf,conductivity unwinding,conductivity relaxat
 05f2f793-0e30-48cf-b31b-0e0a6211ba6f,"Confidentiality, Integrity, and handiness","Confidentiality, Integrity, and Availability (CIA)",general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.978925+00:00
 18fe2b73-9ccc-4046-935b-ce285a1eb225,"Confidentiality, Integrity, and openness","Confidentiality, Integrity, and Availability (CIA)",general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.694044+00:00
 ccef3a3c-a5fc-4fa2-af06-91b85d66280f,Confidential Willful Associations (PVOS),Private Voluntary Organizations (PVOS),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.510000+00:00
+45cb138b-9eac-4116-9b6f-1c17fa646fe7,confident learning,confidence-based learning,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T22:09:07.100063+00:00
 846970c8-05e7-4ada-b5a0-848397442bd6,configurable rationale squares,configurable logic block (CLBs),general,Chemistry,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.211628+00:00
 ef2ea675-a1cb-4f3c-a681-fccce7054aba,confined word,isolated word,general,Computer Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.579459+00:00
 dd48198e-0015-4bf7-908b-385de3bd9126,confinements of each individual model,limitations of each individual model,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T13:54:03.103986+00:00
@@ -1468,6 +1481,7 @@ c3e7f7a1-80c2-4465-898a-0675bbab3722,"confront, iris, finger, palm","face, iris,
 2156c352-393d-4a0d-b551-0d43d9a6f474,congested trees,choice trees,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.200878+00:00
 77f1318b-ce2d-4aaf-a232-44d9c109b6ab,congestion mindful message,congestion aware message,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.201815+00:00
 ef6d18da-b7a3-401b-b46e-df88a04f8071,conjugate inclination,conjugate gradient,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.857236+00:00
+1487977b-5938-4a8e-bf19-c6ee887c8363,connectin (titin) role efforts,connectin (titin) role in,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T10:50:59.308007+00:00
 b155984b-ba7c-47fc-935d-31ace5be7596,conscientious cancer,benign cancer/tumor,general,Computer Science,Networking,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.694044+00:00
 588c94ca-50c8-49b0-baba-8b88770d48fd,conscientiousness for the thrashing,responsibility for the loss,general,Computer Science,Algorithms,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.710910+00:00
 96c3d2c5-4b49-46b0-952e-acd7e8f5c05c,consequences be damned,You Only Look Once (YOLO),general,Computer Science,Computer Vision,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:58.838622+00:00
@@ -1813,6 +1827,7 @@ c533e831-5ff7-428a-94ee-9ba657262074,cushioned rule,fuzzy logic,general,Computer
 a7d60f01-7a17-4715-a2cb-74f8e8684333,cushy reasoning,fuzzy reasoning,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.451973+00:00
 81ad574e-b003-44ed-83f0-b6253194212a,customary least squares,ordinary least squares,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.913838+00:00
 5eb9baec-322e-4123-9005-0a0c11e89d65,customer inquiry round the clock,24/7 customer inquiry,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-04T00:05:51.454843+00:00
+929f6159-dae4-41c0-ac34-93606ef740d6,customer relationship management segmentlevel insights,customer relationship management (CRM),,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T16:24:32.220353+00:00
 149e0fb7-251e-488d-8a04-3863c9e48d03,customizable smart surfaces,reconfigurable intelligent surface,general,Economics,Game Theory,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.037476+00:00
 f00d7b74-7e47-43f1-b2d0-956371f58a5f,custom training through Dreambooth,fine-tuning with Dreambooth,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-16T19:28:07.990498+00:00
 d3e17ee8-bc96-44d2-8f75-c52fe161b7a0,cutthroat endogenous RNA,competing endogenous RNA (ceRNA),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.653403+00:00
@@ -1825,11 +1840,13 @@ aa193135-3ccc-42ff-883d-3bbc8379cbaf,cutting edge fibrosis,advanced fibrosis,gen
 3377276e-9005-4955-9081-064684fe08ba,cutting-edge light-deprivation obstructive infection,chronic obstructive pulmonary disease,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.003510+00:00
 fddcd946-370c-4b8f-abc8-f228508e8ccd,cutting edge metering foundation,advanced metering infrastructure (AMI),general,Computer Science,Data Collection,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.978925+00:00
 baa6bc2b-41df-47b6-8e45-6e04cd7d57cf,cyberattacks that targeting IoT devices,target,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T04:54:34.511163+00:00
+978ba115-ed75-4207-a254-36f09d7185b8,cyber data security,cybersecurity,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T08:13:48.303903+00:00
 e0e9e6cd-26be-49c8-818d-1e37897aa2b4,cyber-influenced integration,cybersecurity integration,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-16T05:40:45.842879+00:00
 6b24b6eb-5de7-4bdd-8310-774fe012d49b,cyber rush,cyber attack,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.694044+00:00
 01012b36-3d46-4392-ab4b-04971f479146,cybersack launch,cyber attack,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-03-04T01:14:15.096067+00:00
 379fe92e-9df1-4954-8d60-06dee25f315a,cyber security angle,cybersecurity,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T08:26:38.641446+00:00
 dfde4061-6386-4358-bc7e-60238357df93,cyber threats correlated with ethical concern,cybersecurity threats,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T12:11:31.916437+00:00
+868cb4c5-c385-43b4-9d99-0384ac1bc4e6,Cyber Value at Risk,cyber risk analysis,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T04:44:19.926368+00:00
 c2b651d7-ee9c-47cb-825e-f15c90d528e3,cycles every moment,revolutions per minute (RPM),general,Physics,Mechanics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.857236+00:00
 2d3943ff-37ce-4d99-a792-02103dfc7c5e,cyclic fidelity,repeatability,,Engineering,Mechanical,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-17T18:43:10.297322+00:00
 caadfcc2-88f4-4ad5-b454-9374bfb7c337,cyclic neural network,recurrent neural network,general,Computer Science,Acoustics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.334592+00:00
@@ -1964,6 +1981,7 @@ dbe53fff-bfeb-445a-8984-19be5c6a898a,defined as fosters,defined as,,,,verified,a
 58c93695-bdf3-466c-959e-bfdc92f78961,defines as encompasses,defined as,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T08:04:41.440835+00:00
 169eb6c7-1573-46ef-b1d2-e8892bce69d0,definite reference model,standard reference model,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T05:40:45.842879+00:00
 08c4b555-0c0b-434d-984c-f156265d2875,deformable unstructured real world contextual settings,deformable unstructured real-world contexts,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T14:15:46.642414+00:00
+b79ff498-e3fd-4d65-8a93-a993359c6d3e,degraded diet,elimination diet,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T06:07:31.244450+00:00
 b154f5cd-70a8-4a8c-a7ad-5d1f34f56de1,degree of grasp,power (statistics),general,Mathematics,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.095666+00:00
 d9fb7e7e-73c1-4ee1-99ed-3c0b9fe4f6fe,degree of merging,degree of smoothing,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-12T08:16:42.286785+00:00
 eeca2b82-94d7-450f-8b81-037b7e527221,deliberate inference period,delayed inference time,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-03T17:29:33.956042+00:00
@@ -2128,6 +2146,7 @@ ff5e5164-1e06-4a3b-9e93-3b5430ce3b6c,direct electronic chronicle,direct-recordin
 71be8230-e230-4186-97dd-540eb721c7d6,direct errors,consistent errors,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-02-27T13:54:03.103986+00:00
 bc1f6985-7913-4377-9032-8b940267ed88,direct exchange work,linear transfer function,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.142942+00:00
 3279d5bf-a58b-470e-bac2-2168b9fb1714,directing convention,routing protocol,general,Physics,Energy,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.538212+00:00
+24648b7e-874f-4b5e-9aad-6c6c73954fbc,direction algorithm,routing algorithm,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T04:28:59.783344+00:00
 ead14838-1732-4e22-bf40-503ad97b09f2,directional tomahawks,directional axes (e.g. in a graph),general,Computer Science,Network Coding,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.881616+00:00
 29da378c-a088-4d55-9ebb-554bdb48f2d5,directly autonomous,linearly independent,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.251055+00:00
 6f87bfe9-7555-42ef-aa51-a233b37f539c,directly detachable,linearly separable,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.751819+00:00
@@ -2296,6 +2315,7 @@ b074c543-07e7-4710-a001-345af15df2f5,DNA spine,DNA sugar-phosphate backbone,gene
 3eef33b4-8a44-46ac-8f00-846729408775,DNS mocking,DNS spoofing,general,Psychology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.387766+00:00
 a21fd63f-291e-4773-a262-8052aa3b547b,doable BDAC,basic data architecture capabilities,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-04T05:33:39.909961+00:00
 98d6cbfb-fc74-4634-a213-063dd2641535,does away dry skin,causes dry skin,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-02-27T13:45:51.827248+00:00
+30676741-8269-45f1-811d-3186c059cfa5,does us full in the life,is beneficial in life,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-22T04:28:59.783344+00:00
 62773b9f-5324-4cd4-ae93-fbd2588316a3,DOLS assessor,DOLS estimator,general,Engineering,Aerospace,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.182559+00:00
 666ab279-6561-48b2-b7a0-904b1a91c959,domain name machine,Domain Name System (DNS),general,Environmental Science,Agriculture,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.328837+00:00
 74176a3a-27e9-4c95-8106-d7255ec43b9b,domestic output (GDP),gross domestic product (GDP),general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.963885+00:00
@@ -2304,6 +2324,7 @@ f837cab6-88c8-406f-9caa-791c41f425d9,dormant dirichlet allocation,Latent Dirichl
 df2207f4-cfa6-4990-adc0-1e5829866211,dormant dirichlet portion,Latent Dirichlet Allocation (LDA),general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.037476+00:00
 317c91e0-aca3-45ce-bc65-481bacb40ee6,dormant environment,inert atmosphere,general,Engineering,Systems,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.85,2026-01-20T08:11:59.540422+00:00
 74478856-cac4-4e6d-b5ac-09c94f3de1aa,DoS assault,denial-of-service (DoS) attack,general,Computer Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.419514+00:00
+33f734ef-3793-41ce-94d5-3fffa7daef34,"dose, efficient and software enabled components",dose-efficient software-enabled components,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T21:03:04.319924+00:00
 6594f986-a0c5-4c4c-87c7-09d2711277ed,dossier arrangement,data preprocessing,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-16T06:03:41.547685+00:00
 6f1c6c82-02c1-42dd-9edd-f493d8984f01,dossier augmentation techniques,data augmentation techniques,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T06:03:41.547685+00:00
 dbf4729f-161d-421f-90e6-1df73ff5017d,dossier comrades,data cohorts,general,Mathematics,Complex Analysis,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.881616+00:00
@@ -2342,6 +2363,7 @@ bd92bfea-e6ac-4080-998d-0e6585e2e952,DSP platforms process,DSP platforms process
 4795b475-aa1b-4318-b1b0-dce8ec9fb318,Dudishly LSTM team,LSTM (Long Short-Term Memory),,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-19T17:43:11.297431+00:00
 b683becc-e0c9-472c-8c48-b92cb0971853,Dulbecco’s altered falcon medium,Dulbecco Modified Eagle’s Medium (DMEM),general,Computer Science,Speech Processing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.003510+00:00
 8f6cb7f9-9980-4099-82e4-56a3368ddcee,Dulbecco’s changed bird medium,Dulbecco Modified Eagle’s Medium (DMEM),general,Biology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.530908+00:00
+e77fb867-a466-4650-a4a5-5156d7176eaf,dummy door lock mechanism,smart lock,,Engineering,Electrical,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T18:14:05.942172+00:00
 7f38b4ab-9b4d-4901-9959-7bc527edf4e7,duplicating credit card,credit card fraud,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T12:51:28.597097+00:00
 fafb1edf-3fdb-4212-9c4c-6c15d2255962,during lessened weight,under reduced pressure,general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.824766+00:00
 1a5123b0-7745-4cc7-b650-7deef4c3e042,during spite of,in spite of,general,Environmental Science,Energy,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.451973+00:00
@@ -2546,6 +2568,7 @@ c37e2aee-d2cd-4484-9807-db7158a8496c,energy holes,energy bottlenecks,,,,verified
 8a691bd4-e1c4-4a72-9ca2-e693bf70432e,energy ingestion,energy consumption,general,Environmental Science,Energy Consumption,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.477753+00:00
 f08d9008-a47f-40ca-85f5-36f1bdb16a97,energy lattice,energy grid,general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.85,2026-01-20T08:12:00.120634+00:00
 529089c8-1996-4036-ba49-d2ff48d3736c,energy loss optimization,energy efficiency optimization,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T13:13:39.700166+00:00
+698a24d7-6f45-47c2-8c15-107503f30886,energy molecules should be activated force,muscle activation,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T10:50:59.308007+00:00
 b20b98a7-7655-4892-95e8-0f9e002440ae,energy of hybrid tactics,benefits of hybrid techniques,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-19T19:05:44.873505+00:00
 092e4ad9-72f5-4e3c-85c3-5c960020a14a,energy proficiency,energy efficiency,general,Computer Science,Genetic Algorithms,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.477753+00:00
 f4492fc2-2032-4c2c-9fdb-b472c740fb2a,energy saving comparing,energy savings compared,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-04T09:51:26.993975+00:00
@@ -2847,6 +2870,7 @@ a1d293fa-82a2-411c-a89b-2e75d45fb0ad,factual assaults,statistical attacks,genera
 19d6d81c-ce19-46bb-99d7-7d7aa19e4d27,facup-to-dateries,factories,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.510000+00:00
 399ddc45-f77d-43a4-b0d7-f098fcb8b705,fag vector,feature vector,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-05T12:17:14.124235+00:00
 a4ef202d-650d-4794-893d-f37f3cd0efde,fail-to-remember door,forget gate (a part of LSTM),general,Computer Science,Neural Networks,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.417155+00:00
+d28dcd0d-4f51-4f95-9591-a632b2adcbbe,fake AD dataset generated by men,synthetic Alzheimer’s disease dataset,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.98,2026-04-21T18:30:43.618738+00:00
 f0b49efb-baae-4cfa-bc3a-9fcecd5a9d08,fake alert rate,false alarm rate,general,Computer Science,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.802180+00:00
 3eeb0682-824a-4be4-81c7-f81d3e781a43,fake Alzheimer's,artificial Alzheimer's,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T08:26:38.641446+00:00
 1bf51053-6bfc-4706-a3a0-2b03d84ce29d,fake brain networks,artificial neural networks,general,Biology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.457436+00:00
@@ -3096,6 +3120,7 @@ f3fcc15e-decb-4992-8afc-9075fa59f958,focal preparing unit,central processing uni
 484f2653-306a-44e0-91a6-9f33b145dedd,focus symmetric neighborhood double examples,center-symmetric local binary patterns (CS-LBP),general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.135413+00:00
 2d358d09-0914-444f-8ea4-fc28070ee9f3,foe assaults,adversarial attacks,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.085511+00:00
 cb7650ea-6e9e-4f1a-9a32-cebf5e6d7d2b,fog up computing,cloud computing,general,Computer Science,Cloud Computing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.211628+00:00
+4eed22be-fa1a-48d2-94a3-48a148407637,fold-safe transformations,data transformations,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T18:26:50.528322+00:00
 b7229259-027d-461b-9f7e-8618a51a6cc2,folic corrosive,folic acid,general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.623196+00:00
 a4ddc3df-4490-437f-96fb-ebb62aea2ea1,folinic corrosive,folinic acid,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.445369+00:00
 9354ec52-9ada-40b7-964d-9faf5a2c81a7,food bigotry,food intolerance,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.579931+00:00
@@ -3164,6 +3189,7 @@ f76f5ff3-1de0-473e-b968-37af5fc08dce,fow cytometry,Flow Cytometric Analysis,gene
 b40d8906-b20a-4590-bb50-724db1039c58,FP theory,fixed point theory,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-01-31T06:26:45.791700+00:00
 2d9b73ae-42e0-4bed-bb27-362167335ce5,fractal fuzzy affiliation,fuzzy logic,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-05T18:00:31.590710+00:00
 bb48ef28-ba39-4b3e-8450-d4f71f03c8f3,Fractal Fuzzy Membership,Fuzzy Set Theory,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-05T17:26:37.911015+00:00
+3918726e-7236-4bd9-a7cd-530282284143,fractal fuzzy membership degree function,fuzzy membership function,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T09:14:36.770008+00:00
 48c8eedf-a64b-48c7-823f-f2289541ce03,fractional auto-correlation work,Partial Auto-Correlation Function (PACF),general,Mathematics,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.653403+00:00
 09185955-0cdb-4128-8089-3303a3fae171,fractional differential conditions,Partial Differential Equation (PDE),general,Mathematics,Differential Equations,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.540422+00:00
 f20a2221-bc13-4846-8fff-0b0e9d6fceb9,fractional distance search,distance weighting,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.978925+00:00
@@ -3177,6 +3203,7 @@ f1b11dbc-a686-4ea0-bdef-56d5585c6c33,fractious gut syndrome,irritable bowels syn
 2f661e95-2209-4843-b2d0-f8f2b1a94dbb,fractious inside condition,irritable bowels syndrome,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.573677+00:00
 ae82af47-259d-41bb-9c72-c6f713a4436e,fractious inside disorder,irritable bowels syndrome,general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.573677+00:00
 eeaf2c86-d184-4e8b-a65b-dc373b162278,fractious inside syndrome,irritable bowels syndrome,general,Biology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.573677+00:00
+9479b814-5375-4f96-b6f8-6c9d96c01bca,fracture generally mechanics information,fracture mechanics,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-24T10:09:56.580538+00:00
 e2569af5-37d0-43f6-84d8-6ff8cab1ed2f,fracture loads ranging from rather 207.0,fracture loads ranging from 207.0,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T07:29:01.069941+00:00
 bb1bc45d-7f06-4498-9996-fdef5f5eebc8,fracturing tensile strength,splitting tensile strength,general,Physics,Electromagnetism,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.971704+00:00
 a044c30c-e519-4a1b-88f3-7c5dead8c21e,fragile figuring,soft computing,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.316487+00:00
@@ -3235,6 +3262,10 @@ fd3b3183-79aa-416b-b799-1e8914923abd,fully associated layer,fully connected laye
 08f7d5fd-6d6e-4e7e-a7ce-9a2ab63cbd15,functional confidentiality,function privacy,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-20T05:35:06.618226+00:00
 48381061-9607-46be-a40e-0550665f2157,functional deficit’s rescue,functional deficit recovery,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-16T08:51:12.439549+00:00
 8dc2c505-1270-4cee-b8e5-8c2847e5c700,functional extraction,feature extraction,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-19T17:43:11.297431+00:00
+6a08894f-b5d3-4a72-ad18-7db545a6b182,functionally monocentric system,monocentric urban structure,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-22T16:30:01.242588+00:00
+abadb580-9774-48d2-96d8-6d52db2877eb,functional monocentricity,monocentricity,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T16:30:01.242588+00:00
+b9227287-a13c-476f-9157-64afe5501c8e,functional monocentric system,monocentric urban structure,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T16:30:01.242588+00:00
+4a701b04-b7d6-4916-b2cd-335f7af91c5b,functional organization of cell,cellular function,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T10:50:59.308007+00:00
 0b5797ed-4075-4fd7-8bbe-41b8044a5d90,function encapsulation,function obfuscation,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-15T20:53:03.661611+00:00
 d48562b8-54df-4e32-8cb7-03a2d939ba3a,function extraction,feature extraction,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.419514+00:00
 d36f068a-fa29-4190-babf-a669fd074715,function hiding,function obfuscation,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-15T20:53:03.661611+00:00
@@ -3296,6 +3327,7 @@ df4e09ff-2aee-4f87-a872-8ac5ccf54efb,Gabor nuclear,Gabor kernel,general,Computer
 2864ac8e-9d0b-4c01-81d6-486f5394d3c5,gadget studying,machine learning,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:58.538212+00:00
 26660ffe-b214-44a9-8bbc-ea1d232fca8e,gadget translation,machine translation,general,Computer Science,Natural Language Processing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.328837+00:00
 afeb0a1b-27f5-42b2-92d9-266448b8cdca,gained sign quality,Received Signal Strength (RSS),general,Engineering,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.768871+00:00
+7822198b-9ab2-4795-8c90-1286b70ee2ec,gaint molecule titin is spring,giant molecule titin is a spring,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T10:50:59.308007+00:00
 bb3f620d-b8d8-492e-a771-85107dc8460b,gait acknowledgment,gait recognition,general,Biology,Biomechanics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.652036+00:00
 97061154-0b73-42e9-9c08-7534f7575824,gait popularity,gait recognition,general,Computer Science,Computer Vision,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.865548+00:00
 5e419a1b-5dc9-4eb9-b5e4-7952883cbb1f,galloping rate of inter-net access,rapid increase in internet access,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T10:27:12.421923+00:00
@@ -3303,6 +3335,7 @@ d79e57d1-7aab-40f5-9566-8b3af91ff15b,gamble factors,Risk factors,general,General
 0a1c5d0d-ba0c-49ff-a9f8-e7231a7dbe1e,gamble of a crash,risk of a crash,general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.073626+00:00
 5852912b-1fab-4492-8835-58ec1a3eaf88,gamble of disease,disease risk variants,general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.085511+00:00
 43aa26e9-a151-46d0-84dc-de832364da95,gamble variable,random variable,general,Mathematics,Probability,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.120634+00:00
+bc69fd9a-0604-4b7d-b0e8-a28dc759ce8d,game theory based hyperparameter concept,hyperparameter optimization,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-23T16:28:45.587380+00:00
 ac11f158-f410-4e55-9db1-fa02c51c091b,Gamma administrator,Gamma operator,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.361211+00:00
 9a747c60-ce8e-4d6d-b6d7-6e8b15af823c,garage necessities,storage requirement,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.913838+00:00
 127f7f3c-b797-4db1-b180-6dd6b06d6bb7,Garbling-interpreting,Encoding-decoding,general,Computer Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.510000+00:00
@@ -3331,6 +3364,7 @@ a719ef7f-84fb-4942-a447-d7bb8c2f1024,Gaussian appropriations,Gaussian components
 b64c5c77-4247-450d-aedb-36c24f704a1f,Gaussian Blend Show,Gaussian Mixture Model (GMM),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.971704+00:00
 90b2b41c-e70a-49fd-81ea-60137e09a2d0,Gaussian capacity,Gaussian function,general,Biology,Agriculture,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.579459+00:00
 bb39fa1e-143b-40a9-93dd-bc7b5a5881fd,Gaussian clamor,Gaussian noise,general,Computer Science,Signal Processing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.379143+00:00
+27d5a983-799a-4c16-a0b2-2aa4f416bb8a,Gaussian click encoding,click encoding,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T18:29:39.673284+00:00
 f11ab7a2-3933-4e25-9a68-05e747f5a925,Gaussian commotion,Gaussian noise,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.095666+00:00
 142b94cd-c1b7-4ebb-bc83-20feae4a9499,Gaussian conveyance,Gaussian distribution,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.623196+00:00
 a59059ef-4c1f-4335-8f42-fca4426bb27c,Gaussian cycle connector,Gaussian process adapter,general,Computer Science,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.710910+00:00
@@ -3627,6 +3661,8 @@ bcae99dc-9d50-47a8-9cee-640f8bb353ea,half circle waterway,semicircular canals,ge
 9c63c856-4c8d-4800-b61f-1f0f595cdd7b,halfway differential Equations,partial differential equations (PDEs),general,Mathematics,Differential Equations,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.373988+00:00
 3d181aa9-fb8c-4600-88b5-b706a846a6f3,halfway obliterated systems,partially disaggregated systems,general,Computer Science,Image Processing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.530908+00:00
 2b52b496-73e5-4495-bbf7-f246b95f09fe,halfway regression,partial failure,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.361211+00:00
+542f0d8f-8b0a-44d5-9a7e-298e78a6e9b8,hallucinated cases,synthetic data,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T08:13:48.303903+00:00
+e3f9d755-fb83-4c7b-8125-6df2b6bb0bf0,hallucinated cases of Alzheimer's,synthetic data,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T18:30:43.618738+00:00
 c4af22a0-b984-40f5-833e-ad3f7e9010ae,hallucinated output systems,AI hallucinations,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-10T04:59:20.137350+00:00
 b24b1ee9-5701-4324-b57f-7e52a6ddcf0c,hallucination functions,hallucination problem,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-21T16:00:42.164926+00:00
 391103d1-89d1-4ff5-83b0-960d1b6bccbf,Hallucination-minimized Generative AI Solutions,reliable generative AI technology,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-21T18:09:46.047283+00:00
@@ -3858,6 +3894,7 @@ dabf9705-8f40-4e42-bf18-0d4e62c84e2b,histogram of inclination direction,histogra
 e518fca1-3d17-4775-94e1-816ee9619971,histograms of inclination direction,histograms of oriented gradients,general,Engineering,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.272374+00:00
 b43a409b-295d-4254-be9c-760a66660ff0,historical QC,historical quality of service,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-04T09:59:09.252773+00:00
 a590276b-5033-47ae-ba13-ed612e6c3fd7,hit fee,hit rate (metric),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.898948+00:00
+bf6fa341-339b-4ea2-b275-4de27463c325,hitting two birds with one score,F1 score,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-22T08:13:48.303903+00:00
 0686e862-e221-4104-b7a1-23aed3100d64,holistic explanation,comprehensive analysis,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-03T18:03:38.065115+00:00
 9d325cb5-5c94-4e81-92a2-9d988a28e5a5,Hollow Consumer Square,Dell computer corporation,general,Computer Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.768871+00:00
 2639b1b9-305c-40fe-b913-ac7eac524b7a,Hollywoodinspired versions,cultural symbolism,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T11:13:25.278964+00:00
@@ -3892,11 +3929,13 @@ e7d9eaeb-d85f-485e-8c88-7d562db4cd62,HTTPS mocking,HTTPS spoofing,general,Genera
 a9b11feb-eb05-4064-9bfa-ccf97bbc34af,huge information,big data,general,Medicine,Diagnosis,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.334592+00:00
 1edb2d11-e9fa-494b-a378-b8e7eb3e4999,huge mountable MapReduce,MapReduce,,Engineering,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-15T19:38:09.219381+00:00
 9a2da9eb-48bc-4229-aeb1-6d88d1e08e93,huge quantities of individuals,large parts of the population,general,Psychology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.85,2026-01-20T08:11:59.955433+00:00
+8bc8a764-94c0-4088-91a8-c512d7d59b25,huge variety in evaluations metrics,evaluation metrics,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-23T16:28:45.587380+00:00
 b51938f5-db9e-4c77-b612-ef0a3e05abc5,huge verse of data,vast amounts of data,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-03T20:55:03.900789+00:00
 325760a2-3c86-4fa8-bbd6-1ff358c8887e,human activity affirmation,human activity recognition,general,Computer Science,Activity Recognition,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.579931+00:00
 038e3693-08c1-4cbb-a1bb-af83bbf78dd8,human computer collaboration (HCI),human-computer interaction (HCI),general,Medicine,Public Health,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.153764+00:00
 9288bb66-00aa-4222-b5ea-b11b3459262d,human-gadget communique,human-machine communication,general,Biology,Genetics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.510000+00:00
 8be781d0-9b8f-45ce-83b5-dbd4492ce1d0,human-gadget engagement,human-machine interaction (HMI),general,Computer Science,Human-Computer Interaction,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.710910+00:00
+00b0dfa5-3f61-4189-9565-c107def6fb6e,"human, guided refinement",human-guided refinement,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T18:29:39.673284+00:00
 58eaccbd-0338-4318-98cd-05f249ccb400,human hear-able framework,human auditory system,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.921143+00:00
 6be42601-3597-45dc-9481-852b023d2d26,human hobby reputation,human activity recognition (HAR),general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.808668+00:00
 2a110b97-5b13-4c34-aa86-8076b7f7982a,human imaginative,human vision,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.361211+00:00
@@ -3953,6 +3992,7 @@ f369be01-320e-4b7c-99ec-eab804a72954,hyperspectral symbolism,hyperspectral imagi
 bed93e1e-3fe5-4c4e-a481-abf866d21c01,hyper-variable areas,hypervariable regions,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.857236+00:00
 8726a282-334c-4dbe-b9bc-cd73306e5882,hypochlorous corrosive,hypochlorous acid,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.921143+00:00
 c176d65f-1b7a-4e78-bfe9-996184ae3043,hypofluorous corrosive,hypofluorous acid,general,Chemistry,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.573677+00:00
+23c7dfc6-fb39-417b-9a04-c7c50e847e52,hypotetical filament,hypothetical filament,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T10:50:59.308007+00:00
 bb19513c-10f5-4537-a026-dc29904ff269,hypothesis age (HG),hypothesis generation,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.653403+00:00
 9a0a2c5e-c6d7-4fb9-8aea-65bccc0dc379,hypothesis of amusements,games theory,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.037476+00:00
 363f6caf-96df-4d31-82a8-716bec1e649e,Hypothesis of Arranged Conduct (TPB),Theory of Planned Behavior (TPB),general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.451973+00:00
@@ -3961,6 +4001,7 @@ c0c7d5bc-f936-491e-970b-935774a94fe8,Hypothesis of Contemplated Activity (TRA),T
 c0058b12-3d78-48a6-bc7f-35a865ad6429,hypothesis of parlor recreations,games theory,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.097164+00:00
 0ec7d2d9-48ae-48bf-8074-93b8fba3cb16,hysteretic behavior test,hysteretic behavior,,Engineering,Mechanical,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T20:02:12.058919+00:00
 ce627d9f-b6e9-4a4e-81d8-151eba9feaed,IBM Factual Bundle for the Sociologies,IBM Statistical Package for the Social Sciences,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.211628+00:00
+aa1a1bd5-bced-4448-aae2-3c8d1954c845,ideal cryptography algorithm,ideal cryptographic algorithm,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T04:28:59.783344+00:00
 907552a5-4740-480d-83ea-628666773762,ideal detachment hyperplane,optimal separating hyperplane,general,Biology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.417155+00:00
 a0b4ae04-d364-4dd3-ba25-a2b3f7990295,ideal precision,precision,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-03T16:32:26.527715+00:00
 1554fa60-f291-4abb-8190-cff0a3da2f39,idea transfer getting to know,transfer learning,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.003510+00:00
@@ -4191,6 +4232,7 @@ a8dc6447-7adc-486b-aa89-ffe4217cdfba,inhibition of inflammatory responses,anti-i
 bf1911ac-433a-4a4c-b826-352c988eb717,inhibition of microglial,activation of microglia,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-16T09:12:31.104064+00:00
 b3ef15cb-ba81-4cb3-a154-496c60925301,inhibition of survival,apoptosis inhibition,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-16T07:28:40.839182+00:00
 9455b926-27f0-4c90-9dca-228f640c688d,initial is the variance,first moment,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-03T17:29:33.956042+00:00
+998ff6a5-f79a-4011-a7a0-3e50a03c40aa,Initial Random Hand Pressure,Initial Random Sampling,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-23T17:07:24.048637+00:00
 5a085084-0ed0-4036-9d7b-492e443fbdb0,initiation capacity,activation function,general,Computer Science,Artificial Intelligence,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.623196+00:00
 f11f3169-6a7b-48f7-beff-7527bbedad72,initiation details,initialization parameters,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-02-27T12:49:34.148948+00:00
 cfa0d562-6d59-4af1-acd2-f2cdcc9826b2,initiation possibility,initiation probability,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.165415+00:00
@@ -4219,6 +4261,7 @@ cb0a272c-d6a5-40b2-a9f1-7c81b3027705,insatiable algorithm,greedy algorithm,gener
 04ccd65e-7002-4864-af35-0150538a7af9,insertion misfortune,insertion loss,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.808668+00:00
 94b1cdaf-1b2c-43a1-acf1-5893a78c8104,inside interpreted spacer,internal transcribed spacer,general,Biology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.272374+00:00
 0d83785d-6859-4936-803f-bbda95fc0d42,insider security,insider threat,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-20T07:33:08.858262+00:00
+576cde70-0db4-48b6-89b0-cb502aca4145,insidious Man-in the-Room tactics,Man-in-the-Middle attack,,Computer Science,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T17:12:01.448057+00:00
 6514562e-19b8-4c25-90e8-69c3d8d031f1,insightful lattice,smart grid,general,Computer Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.037476+00:00
 cb561696-2a7d-408e-b845-1336fdf8cce9,insightful objective flowing,Analytical Target Cascading (ATC),general,Engineering,Optimization,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.768871+00:00
 da2ed9a4-c00e-44fd-ba97-ea1c6790c414,insightful ordered progression process,analytic hierarchic process (AHP),general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.653403+00:00
@@ -4419,6 +4462,7 @@ e3f54bf0-411d-416c-8e82-28b59b10c247,Jupyter Diary frames,Jupyter Notebook,gener
 5a93e880-1cc2-45b5-b3e0-018247313add,Jupyter Journal,Jupyter Notebook,general,Psychology,Emotion Recognition,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.579459+00:00
 8927b1bd-ade6-4eb7-8a40-1c8de4078d48,Jupyter Notepad,Jupyter Notebook,general,Computer Science,Data Science,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.413699+00:00
 53ef7294-e47d-4e8a-b7af-4218416eb6ca,Jupyter pocket e book,Jupyter Notebook,general,Computer Science,Distributed Systems,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.768871+00:00
+f7cdb242-43e9-41a6-ba40-9a50a2e5198a,Just faking it!,data augmentation,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-22T18:29:39.673284+00:00
 a52239d4-e121-43a7-b97d-e2fa6c6285cd,Just go for it,"YOLO (You Only Look Once, a computer vision model)",general,Engineering,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.251055+00:00
 034c2ae1-7f3b-48a1-8156-8f4be625729f,Just Look Once,You Only Look Once (YOLO),general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.245957+00:00
 d2975af4-531f-4fc5-805c-b7b76630955a,Kalman channel,Kalman filter,general,Engineering,Control Systems,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:58.538212+00:00
@@ -4452,6 +4496,7 @@ ba519cc4-1787-461b-93bf-aed4b3426ca3,keen wellbeing,smart healthcare,general,Gen
 96c78204-fce5-4cfb-8cea-8f1132c391d0,kernel-based major issue analysis,kernel-based principal component analysis (KPCA),general,Environmental Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.445369+00:00
 fb571ef0-44e9-47cd-8194-51dc34d0d246,kernel zed label,kernel label,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-05T12:17:14.124235+00:00
 8f925e55-95f1-454f-9347-db32c9c821ff,k esteem,K value,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.457436+00:00
+e58873bf-3e03-4a51-8599-4e32aec00fcc,key attack identifiers,attack signatures,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T18:44:52.592810+00:00
 fc2096ca-ae87-4e32-9d4a-453f5db6da55,key brewkins,key workers,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-19T18:55:25.678690+00:00
 7d8b7f03-c8c0-497d-ab6b-e6bfe1b237e7,key dissemination administrator,key delivery message (KDM),general,Computer Science,Cryptography,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.768871+00:00
 acd363d6-3545-4b6f-a4d9-9c92e9a2b895,key-esteem matches,key-value pairs,general,Computer Science,Data Structures,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.971704+00:00
@@ -4467,6 +4512,7 @@ d6c5bd46-8eab-4774-8677-8b09a812f36f,Key Part Investigation,Principal Component 
 dc64753e-2ef9-4870-82ff-4327ad9de5b2,kidney relocate,kidney transplant,general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.316487+00:00
 6f6807bb-68e5-4c15-b7c0-da18fb1ec4b6,kidney relocation,kidney transplant,general,Medicine,Transplantation,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.316487+00:00
 6861056e-87e3-4d75-aac8-01689868e482,kidney rock,kidney stone,general,Environmental Science,Environmental Degradation,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.579459+00:00
+06a0a900-bb18-4c11-9410-3cb81a353fea,kill the effect of skewed distributions,normalization of skewed distributions,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T16:24:32.220353+00:00
 1f79486f-420c-4403-8b92-cb37b5dbf018,k-implied bunching,k-means clustering,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.201815+00:00
 924b9bfc-6bc5-4304-a80f-ef32bb8d8e9d,K-implies bunch calculation,K-means clustering algorithm,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.445369+00:00
 77cc98df-6aeb-4636-a964-523d949a9547,k-implies bunching,k-means clustering,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:58.838622+00:00
@@ -4489,6 +4535,7 @@ c2c28b4f-7158-4781-93a5-1be1eebf7ea9,k-infers clustering,k-means clustering,gene
 613016dc-8df3-4b37-ac51-45024da91e1f,kingdom-of-the-art,state-of-the-art,general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.182559+00:00
 dc53d20c-56cc-4437-beda-3e585de26ab7,kingdom of the artwork,state of the art,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.913838+00:00
 77720c26-cc23-4334-95dd-50f31bb506e8,Kinson's illness,Parkinson's disease,general,Medicine,Neurology,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.865548+00:00
+a80faba4-655a-402e-a127-29dcbcb2a0aa,Klingo completeness and modality taxonomies,data completeness and modality taxonomies,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T21:03:04.319924+00:00
 7fdbbfbb-9563-4f29-b721-22f052af7631,K-mean bunching,K-means clustering,general,Environmental Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.095666+00:00
 51b07437-457b-4c3a-ae36-5c1492d54601,Kmeans bunching,k-means clustering,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.257942+00:00
 f632f769-bd18-45a0-99d7-1626f50b9e4c,k-means bundling,k-means clustering,general,Mathematics,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.913838+00:00
@@ -4511,6 +4558,7 @@ f03ebe79-88d0-43f3-9413-a3f0d8912130,k suggests gathering,k-means clustering,gen
 8c769e9d-6145-4248-b0da-dc50637824f5,Kullback-Leibler remove,Kullback-Leibler divergence,general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.710910+00:00
 9f9f14e1-2d0b-4e29-acaa-8d4806d60665,Kuznets bend,Kuznets curve,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.028172+00:00
 35f34c39-02d6-4a4d-a5e1-823f9a6ba19a,L1 misfortune,L1 loss,general,Mathematics,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.316487+00:00
+d2353380-897a-41eb-a29a-dcf48483b263,label manipulation,data poisoning,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T09:37:22.882137+00:00
 2925d042-18c6-4dd4-836c-3ebe97e45d80,labor in-depth,labor intensive,general,Engineering,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.379143+00:00
 0c25448d-8bf7-451b-8329-2484abb826f7,lacking youngsters,missing children,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.751819+00:00
 42afe6b0-1b41-4d3d-a643-3c48b3c25cba,lack of definition against picked ciphertext assaults,INDistinguishability under Chosen Ciphertext Attack (IND-CCA),general,Computer Science,Cryptography,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.941195+00:00
@@ -4587,6 +4635,7 @@ f9dcdc08-c231-4c93-8945-879cc17fd1e5,leave-one-subject-out cross-endorsement,lea
 511600ae-db70-4d1d-b9fb-26f47c66e76b,leave-out price,Miss rate,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.309351+00:00
 15abaab5-6ed3-4a44-9f8a-4cb759eabb78,leftover organization,Residual Neural Network (ResNet),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.328837+00:00
 9c28a086-f5bd-4fdf-ba1d-91931507259a,leftover vitality,remaining energy,general,Physics,Energy,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.379143+00:00
+f1b0acc6-7fca-45b2-9c2c-b89790362778,legal privileges,authorized access,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-23T16:28:45.587380+00:00
 a8f9e919-03bb-46aa-a7a5-f1c8b8aa9fb3,legitimate-world synopsizes,real-world applications,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-16T06:03:41.547685+00:00
 8c00e375-b8ae-46f5-81ba-7f76c6eb1856,lengthwise reliability,longitudinal reliability,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T11:54:58.357992+00:00
 775c74cb-df3c-4ac2-ad64-c8e35539760d,lengthy brief-term memory,long short-term memory,general,Medicine,Ophthalmology,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.451973+00:00
@@ -4622,7 +4671,9 @@ be0cf792-5be6-441d-844d-c3b052be4273,lifestyles span,lifespan,general,Computer S
 5d034f9d-2fb1-48f4-8888-2314a968ed0d,light block for encryption projection,encryption mechanism,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-04T01:18:48.200586+00:00
 286b4d29-fa5e-469e-ae22-49949cafd564,light crystal display,liquid crystal display (LCD),general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.309351+00:00
 952675b2-db7b-41a7-9e1e-4b99fd411c6c,lightening up neural connections,activating neural connections,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T12:49:34.148948+00:00
+ff2956eb-3315-4dc8-b986-5a095645f6d0,light fine tuning,fine-tuning,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T18:29:39.673284+00:00
 2a976287-ff4c-4d45-9e65-02f121407407,light gradient boosting machine,light gradient boosting,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-04T00:02:07.782835+00:00
+3c55b4d3-9577-491a-a1e7-8f9b0c0688c9,light importance,feature importance,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-22T18:26:50.528322+00:00
 42be44af-f23b-4e0b-9947-7991e761c97f,lightness prompted,buoyancy induced,general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.637551+00:00
 e0f234ac-87c5-436c-bbaa-28e40a898f80,light of close infrared,Near-Infrared Light (NIR),general,Computer Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.153764+00:00
 18603aaa-a237-4a64-a1af-77502d8ffa4e,light producing diode,light emitting diode,general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.724741+00:00
@@ -4698,6 +4749,7 @@ a2c5b3a9-caa3-4f1a-a6a2-33eee49111e5,locale of enthusiasm,region of interest,gen
 18e64f17-e6f6-4afa-9a18-9589f3d55a41,locale of intrigue,region of interest,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.85,2026-01-20T08:11:59.623196+00:00
 f44ef06d-a1b8-442e-b6a3-c0b2115a2aaf,local extreme diagonal number pattern,local binary pattern,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-11T17:56:49.572637+00:00
 c53b91d9-408a-4034-95ba-241c3de85c0b,Local Idea Move Program,Community Based Care Transition Program (US healthcare),general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.881616+00:00
+60785f5b-643d-4ec8-835d-4845c0af8af6,localizated within sarcomeres,localized within sarcomeres,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T10:50:59.308007+00:00
 2b952460-4e12-423c-aab5-ea18c326f180,locally available unit,On-Board Unit (OBU),general,Engineering,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.652036+00:00
 bc60e012-5b4f-4859-b877-1e3c8151697c,local mapped pattern,local binary pattern,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-10T15:13:28.611665+00:00
 1a23d7bb-9f2e-4970-a090-7ba663cf560a,local optima trapping,local minima trapping,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-11T09:26:54.375570+00:00
@@ -4746,6 +4798,7 @@ d8450e33-b805-401f-9688-958f0a7eed27,long short-time period reminiscence,Long Sh
 b2e27de4-d953-4397-a757-bb7f290c96c1,long volume,longitudinal data,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T08:26:38.641446+00:00
 94e6fcc3-0ea4-4f1f-9975-0dd45c510148,lopsided computerized supporter line,Asymmetric digital subscriber line (ADSL),general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.073626+00:00
 9575300f-56a4-444d-8952-788a32b78c69,lore victim,lure victim,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T12:51:28.597097+00:00
+e404c583-7bf3-4a72-b558-c6654b05b9f0,lore victim to a message,lure victim to a message,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-22T18:44:52.592810+00:00
 e0e1ea19-4e03-471c-9b89-418d0821479d,loss capabilities,loss function,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.245957+00:00
 c915ed35-0b77-47b4-ade0-db4f42076c6a,loss characteristic,loss function,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.334592+00:00
 1df38114-eeaf-42d9-91c3-d46a3fe0eec1,"loss-minus-identity, identityloss",identity loss,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-15T20:23:55.483749+00:00
@@ -4853,6 +4906,7 @@ d44a51ea-e64e-49b4-b0e2-d9b13396f9db,malevolent traceability efforts,malicious t
 2f13fe1c-75e1-4d4e-8c1c-d03d4e9b8f26,malevolent tumor,malignant tumor,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.842122+00:00
 52ecba9f-ef97-48ef-86f7-2b7038775756,malicious and 3 harmless traﬃc captures,benign traffic,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T04:54:34.511163+00:00
 5f14d417-a1ec-4e68-8f71-0e6f41dcfa5c,malicious determinations,malicious purposes,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-04T09:53:20.910040+00:00
+81c9fdcc-e0ae-474e-8614-0a5a68cc2192,malicious gradients,adversarial examples,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T09:37:22.882137+00:00
 18a44b01-a5a3-4d97-bcec-c621bf57ec99,malicious ordering nodes,malicious actors in a blockchain context,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-16T13:24:55.681645+00:00
 7e244f8f-9131-41af-aef2-0d2c57912892,malicious Sky mote,malicious device,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-10T04:54:26.967828+00:00
 c90b8a65-c5e4-4c62-90cb-0fa1b001a185,malicious state command injection,command injection,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-16T05:07:21.702690+00:00
@@ -4878,6 +4932,7 @@ b5787d94-0616-4ceb-a8bd-43c13acc6435,man in center assault,Man in The Middle Att
 a6a3aa51-0091-4286-b004-fae1327f7803,man in the center,man-in-the middle (attack),general,Computer Science,Computer Vision,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.419514+00:00
 ed97495c-f9b4-4e26-9855-0d6e3c423140,man-in-the-center (Met),man-in-the-middle (MitM),general,Computer Science,Algorithms,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.573677+00:00
 dd1fc90e-796f-46a4-8179-02a47000d6e9,man-in-the-room attacks,man-in-the-middle attacks,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T05:18:56.843124+00:00
+5860712b-8d56-4887-a623-ff613fe97191,Man-in-the-Room (MitR) Attacks,man-in-the-middle (MitM) attacks,,Computer Science,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-22T17:00:10.187359+00:00
 71f4345f-3cbb-4661-8c83-777ae9d96fa4,man-made awareness,artificial intelligence,general,Engineering,Control Systems,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.842122+00:00
 e397bab3-6d3c-4ca8-9b03-6662827c6c8d,man-made brainpower,artificial intelligence,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.538212+00:00
 73fdb38d-100a-4916-b18b-5debe8749bf5,manmade brainpower,artificial intelligence,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.309351+00:00
@@ -4982,6 +5037,7 @@ f1ccc8d1-8fc8-46d8-9df4-e53174b24142,mechanical guerilla,industrial revolution,g
 ca6b4b20-94d7-4a6e-bcd8-b1d7ee64c993,mechanical homes,mechanical properties,general,Engineering,Material Science,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.842122+00:00
 1c6f168d-2ac7-4802-9519-7656e2df2bb2,mechanical unrest,industrial revolution,general,Computer Science,Graphics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.328837+00:00
 b6806903-a9e1-4b98-9b98-d6cfa8b33025,mechanical upset,industrial revolution,general,Medicine,Oncology,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.842122+00:00
+20508854-54b8-4661-9b23-de7ad7b81481,mechanic force,mechanical force,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T10:50:59.308007+00:00
 2daa8108-b517-4a4d-a11e-3bc393ca66c5,mechanized discovery,automated detection,general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.85,2026-01-20T08:12:00.913838+00:00
 0216df28-b74f-4c90-b88b-f8a785a21f33,mechanized mechanism classifier,automated machine classifier,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.653403+00:00
 f58aea9c-db22-40e2-94d4-8081c412949e,mechanized picture dealing,digital image processing,general,Mathematics,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.751819+00:00
@@ -5071,6 +5127,7 @@ a0b7605a-20a5-41cc-a86d-566ac2f9dc76,microbial sullying,microbial contamination,
 dd85dc2d-8937-44b2-91ec-2e0127d65d33,Microsoft dominate,Microsoft Excel,general,Computer Science,Software,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.023927+00:00
 8ea25e1b-a092-4a54-b87c-12040aac75a0,Microsoft Sky Blue,Microsoft Azure,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.652036+00:00
 31fcfbb0-0de1-4284-8ed8-13473213cc7d,microstrip fix reception apparatus,microstrip patch antenna,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.142942+00:00
+ae74bc16-29cb-4100-a6be-f0671e2788a4,microstructure-based predictions,microstructural predictions,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-24T13:11:14.074535+00:00
 d2e8b5a0-4ce5-47f7-bbaf-84f72a7a99d7,microwave consolidated circuit innovation,microwave integrated circuit technology,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.710910+00:00
 0e21a8b7-bbe9-4b39-861b-53f025c03fdb,microwave light-passed,microwave irradiated,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.530908+00:00
 b665e697-1594-408e-8e1c-3403b3acb91d,middle business-end-to-end,end-to-end business model,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-02-21T23:37:58.680437+00:00
@@ -5108,6 +5165,7 @@ d05c9aff-dfdd-4330-a35b-b4e057bec7df,mind waves,brain waves,general,Medicine,,ve
 9c903ee5-af30-4448-aa81-a907ea877dd2,miniaturized scale permeable,microporous,general,Engineering,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.637551+00:00
 e4663320-bd2d-4129-879e-1d0bc9820074,Minimal Circle (CD),Compact Disc (CD),general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.201815+00:00
 2402e31c-e3cc-43ca-9cf4-5a245417a09e,minimal square coarse chaos,mean square error,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-17T05:42:24.164885+00:00
+9342489a-ee73-47e6-89c6-424c589aa305,minimum-effort deployability,minimum viable product,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T18:29:39.673284+00:00
 902a173f-7c28-4448-9a8a-7bb5bc0aa8a4,minimum inhibitory attentiveness,minimum inhibitory concentration,general,Biology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.361211+00:00
 dd35e568-109a-4dc5-88cf-ff9914429da9,minimum mandatory vitality,minimum required energy,general,Chemistry,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.329518+00:00
 926780c4-88cc-4b33-bbb9-2ad8740e4d6d,Minimum Output general of rectangular Error,"\""Minimum Output Sum of Squared Error (MOSSE)\""",general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.881616+00:00
@@ -5163,10 +5221,12 @@ af2aa647-5779-483b-a2dc-b21810e58271,model exhibition,model performance,general,
 f9f50a1b-1c6d-4eaa-b38d-d5e8fded0d53,model explosion,state space explosion,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-19T18:55:25.678690+00:00
 7528641f-1501-40bb-8900-dab26fba4e9b,Model Multitasking Functionality Profit Specters,model multitasking functionality profit spectra,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-19T17:43:11.297431+00:00
 ae926cab-c638-4b48-a0dc-89d0fe30347b,model neglect,underfitting,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-06T08:47:33.202756+00:00
+906334eb-a41d-4173-8dd9-25f381a379b0,model output rebuild,model output reconstruction,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-23T16:28:45.587380+00:00
 db3c83e6-7677-4b10-9e24-9b84482d21b8,model schooling,model training,general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.328837+00:00
 d0233806-9a8a-412c-9c0e-1052c3332577,Model Schooling System,Model training process,general,Mathematics,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.637551+00:00
 fa66527c-0b64-440a-b408-90a473ea1bea,moderate dissipation,slow evaporation,general,Computer Science,Anomaly Detection,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.023927+00:00
 659b7073-e965-435b-bc37-913356b9f282,modern creation,industrial production,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.85,2026-01-20T08:12:00.120634+00:00
+4f38de78-f414-43e2-9cf4-2d87d927c75d,modernization deficit,technology modernization gap,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T21:03:04.319924+00:00
 f6329bed-e5c7-42f1-964f-f1adb222f04d,modernized to-straight forward converter,digital-to-analog converter (DAC),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.201815+00:00
 d52af814-5814-4754-854e-2cdc60b3d5c9,"Modern York, NY, USA",New York NY USA,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.417155+00:00
 0bac2171-e0cf-469a-bfea-171f39219904,modiwiwireless,modifi,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.978925+00:00
@@ -5237,10 +5297,14 @@ b46b7010-36e0-4e7a-8e75-bf9d4c1a6c34,more prominent exactness,higher accuracy,ge
 a170792b-b153-4ad5-a237-fe5e0b0abcf6,more virgin one,more fertile one,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-21T12:16:10.193432+00:00
 ab6656b9-a177-4ef1-9fb9-c01242f1e4db,morphological administrator,morphological operator,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.724741+00:00
 ae380018-e181-49ab-be89-c8ab1cdde3bc,morphological directors,morphological operators,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.802180+00:00
+81a7130e-e123-4193-9525-c6e90bce751c,morphological plurality,morphological diversity,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-22T16:30:01.242588+00:00
+a7149fe3-3f44-475f-80ef-7701c41cb5e3,morphological plurality masking functional monocentricity,functional monocentricity,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T16:30:01.242588+00:00
+147b9be9-4d9c-4148-b5e4-75bb7acd3162,morphological trap,morphological stagnation,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-22T16:30:01.242588+00:00
 545dfedb-a227-4909-a2b8-010d8d824087,morphologybased text,morphology-based text,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-12T17:38:04.531709+00:00
 0a68b60d-817e-4adf-a901-de7e5b391560,morphologybased text augmentation,morphological text augmentation,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-12T16:07:02.671459+00:00
 e344824c-1623-426a-965d-92c40fc9bc4b,mortal-centered artificial intelligence,Human-Centered Artificial Intelligence,general,Computer Science,Artificial Intelligence,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.710910+00:00
 43a33fdc-8a44-4ab7-8594-88d01db7c305,mortal perception,human perception,general,Psychology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.120634+00:00
+8ce353b4-42c1-4e73-b133-2e1b75a16103,mosaic effect,mosaic theory,,Computer Science,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T12:18:14.762122+00:00
 24fa148a-c2f3-4733-b60f-7f2b26df93f5,mossy cup oak,most,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.413699+00:00
 21e92bda-f5bf-4cbd-903c-6b415d4f21c2,most elevated exactnesses,highest accuracies,general,Economics,Econometrics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.153764+00:00
 61b428bd-63c5-4632-8534-49f2247e7471,most elevated precision,highest precision/accuracy (could be either),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.095666+00:00
@@ -5253,6 +5317,7 @@ e013c1dd-99ee-4bbd-b0b3-c22d4c743a92,most meaningful data,important features,,,,
 cdafdb1a-7775-4d1f-a271-2142e52106e7,most noteworthy escalation,high absorption capacity,general,Computer Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.271909+00:00
 e9a4281b-1060-4521-bfe0-366f445121eb,most pessimistic scenario execution time,worst-case execution time (WCET),general,Computer Science,Algorithm,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.417155+00:00
 f111695a-b728-4ef6-92a3-248a6a5fe16d,most Signiﬁcant encryption method,most significant bit encryption,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-11T18:13:27.496102+00:00
+5a939e47-cd9d-40e9-9ed8-9ee7d598c6fb,most tools used,most common tools,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T04:44:19.926368+00:00
 16e87b9f-56bd-4c38-9aa0-30fda48f3985,mothers of abortion,history of abortion,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-14T14:35:26.341617+00:00
 7bbc1443-5944-4d6c-91f4-0b7a75986a30,Motif co-event network,Motif Co-occurrence Matrix (MCM),general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.003510+00:00
 f53e1658-7315-40fd-bdf5-4be9102e8300,motion to clamor,signal to noise,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.808668+00:00
@@ -5507,6 +5572,7 @@ bb03fa7f-5a28-4cb9-9de9-a4767df2038c,non-inexhaustible,non-renewable,general,Env
 3bf88286-7e18-4c1e-b459-152623de3fea,non-negative framework factorization,Non-negative matrix factorization (NMF),general,Chemistry,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.751819+00:00
 299a7a7d-e498-44f9-9197-3882c5582cd0,non-observable pathway,non-line-of-sight (NLOS),general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.257942+00:00
 32f6121f-0271-445c-ab3a-00e1a732f2a6,nononsense approach,no-nonsense approach,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-03T16:46:59.295447+00:00
+d3eb7264-6e53-4fbf-a8fe-a951d79c1146,non-overfitting taking care of regularization,regularization,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T18:30:43.618738+00:00
 24c0ddeb-0e33-4983-8bbf-82631f0534c8,non-parametric relapse,non-parametric regression,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.694044+00:00
 ce584fcf-db2a-434a-b8bd-c8972c9f0b11,nonpartisan face,neutral face,,Computer Vision / Face Analysis,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-01-24T11:16:14.354742+00:00
 12c7babc-8757-4911-b641-2a2c51d6f5fe,non-representational syntactic,non-representational,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-02-27T11:13:25.278964+00:00
@@ -5852,6 +5918,7 @@ edd54fb0-f08c-42d1-8695-d35a24dc9241,parallel veil,binary masking,general,Comput
 294ff7c5-afbe-40df-917e-1d4bdf1eac89,parameter pre-education,parameter training,general,Mathematics,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.971704+00:00
 f592198b-79bc-4e36-bba5-bf649960bf66,parameters tuning,hyperparameter tuning,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-10T15:13:28.611665+00:00
 16d17d9f-ddf4-4ae8-ad1a-2e2f116d2284,parametric complexity,computational complexity,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-04T02:22:10.607175+00:00
+40c6d6c6-ca7e-48a5-97b6-a739f814959d,parametric dataset,parameterized dataset,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-24T13:01:24.669170+00:00
 50a097e9-ef94-4b9b-b7c9-f4a96b809473,parametrized endless arm crook issue,multi-arm non-contextual bandit problem,general,Mathematics,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.710910+00:00
 6c02cff4-02a0-4398-ab12-0bd8c5dd9c6b,parasitic fix,parasitic strip,general,Mathematics,Fluid Dynamics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.451973+00:00
 cd78f140-ebc9-41eb-afab-626576c01338,parcel dropout,packet loss,general,Computer Science,Networking,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.751819+00:00
@@ -5890,6 +5957,7 @@ afa5f6c8-a87e-40f1-9bc5-085fcbaf82d4,passionate mood,emotional state,general,Psy
 4dee9e65-07c4-4d35-8dd0-a52679c50d4b,passionate names,emotional labels,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.257942+00:00
 259c4812-3432-46b0-9307-92715adee6a3,passive dissolve,passive dielectric,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T12:49:12.473819+00:00
 1fa7ff32-0fdc-4ab5-bf39-d666cd9fe5c2,passive heating element,passive heat transfer,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T13:13:39.700166+00:00
+ae4b2d9d-40b2-4300-833f-944d3388f7b2,passive tension role of titin,titin's role in passive tension,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T10:50:59.308007+00:00
 590d4326-4717-47cc-bc83-ab49d41b4fe9,pass-layer framework,cross-layer framework,general,Chemistry,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.361211+00:00
 d1158c00-2383-42b0-b2f6-8305569e1bb0,pass-lingual,cross-lingual,general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.694044+00:00
 d774004c-9bdf-4fc0-8a14-d82b1ab56bc3,pass-over charge,miss rate,general,Computer Science,Data Science,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.379143+00:00
@@ -5946,6 +6014,7 @@ b1131327-e42c-4f57-abca-99a70c14b936,peevish inside syndrome,irritable bowels sy
 72033cd4-d025-44ce-b518-795788691655,penmanship acknowledgement,handwriting acknowledgement,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.373988+00:00
 8602efe2-e12e-478b-8fe0-d1ef6da85741,penmanship acknowledgment,handwriting acknowledgement,general,Computer Science,Handwriting Recognition,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.540422+00:00
 85abf9c8-f467-45c1-a766-23324f1bf888,penmanship investigation,handwriting analysis,general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.751819+00:00
+73718b47-a2b3-4999-9d14-2bbe2bf93825,perception-altering VR hijacking,virtual reality manipulation,,Computer Science,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T17:12:01.448057+00:00
 d68a7221-a640-4761-9a7f-7ad26435f9a2,perceptive infrastructure,smart infrastructure,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-02T13:29:39.622915+00:00
 dc69ffe5-0885-4ee4-8a19-327b30866d78,perceptually significant,perceptually relevant,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-02-27T12:32:16.406612+00:00
 6a3fe44f-1695-432f-bb09-d1349a94437c,perceptual manipulation,cognitive hacking,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-21T04:59:14.374209+00:00
@@ -5957,6 +6026,7 @@ ee045b43-3612-4665-96bf-b06fb2a1ea91,"perfection, perceptivity","precision, sens
 3d5b8c2a-2028-4c93-a874-00dd087869c8,performance of optimization process,optimization performance,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T04:47:18.968721+00:00
 767682d2-1415-4f3b-8c5f-e8bbd7323fa2,performance prediction UTAUT,"performance expectancy, see https://en.wikipedia.org/wiki/Unified_theory_of_acceptance_and_use_of_technology",general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.142942+00:00
 342c09ac-c47c-47ec-9065-ca6904713030,performance probability,performance metrics,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-01-31T13:26:21.761771+00:00
+a74c8e7d-9464-4b31-8fec-33403dbe3606,performance through three measures,evaluation metrics,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-24T03:10:11.536629+00:00
 b261ac56-e451-4bd8-a534-d496fb9471b9,performancing well,performing well,,Computer Science,Machine Learning,verified,ai_detected,0,0,0,0.0,likely_tortured,0.9,2026-01-21T11:17:24.957006+00:00
 8ac7fdb3-9789-47df-9677-366040a5210e,perilous great,hazardous goods,general,Environmental Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.694044+00:00
 f6f3edca-6c2c-4d9a-b43e-93394c636219,periodic nervous tissue,recurrent neural network (RNN),general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.037476+00:00
@@ -5966,6 +6036,7 @@ f6f3edca-6c2c-4d9a-b43e-93394c636219,periodic nervous tissue,recurrent neural ne
 aa7040aa-f50d-48c0-b0cb-8d2f69fe216d,permanent layer of Wireless sensor networks,infrastructure of wireless sensor networks,,Engineering,Electrical,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-20T22:48:05.580162+00:00
 87a213c0-4985-45cd-8ee3-0addbd38cec0,permanent storge,permanent storage,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-16T13:24:45.966874+00:00
 c34b132a-4216-4b82-9b26-e8dd918f0e6d,permeable middling,porous medium,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.751819+00:00
+244a10b4-f207-410c-a170-954ffe4b72ae,permitted access misuse (Break-the-Glass),Break-the-Glass privilege misuse,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-23T16:28:45.587380+00:00
 e6ee4326-64fd-42cc-93cb-ddaf15e68a42,permitted emergence access,authorized access,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-20T07:33:08.858262+00:00
 fc0fa31a-141c-4158-8dff-2e5e182ad9a7,pernicious hub,malicious node,general,Computer Science,Network Security,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.165415+00:00
 6ec21af2-d3e1-493b-b185-5f5344cc606f,pernicious node,malicious node,general,Computer Science,Security,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.842122+00:00
@@ -6026,6 +6097,7 @@ f1c5c252-6516-4daf-8a6b-a941ff3fb604,photo segmentation,image segmentation,gener
 8f23df5b-5bbd-4e01-8878-b73dc4f0336f,phthalic corrosive,phthalic acid,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.751819+00:00
 aeed09c7-3497-499b-aab4-288df06a4f04,pH touchy,pH-sensitive,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.028172+00:00
 8330c7db-1acd-43f7-ab04-d44204f9b2c5,physical embeddings,learnable embeddings,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-03T12:31:36.732110+00:00
+1bbc1f18-f66e-4643-8627-faa0fc456062,physical isolation risks,social isolation,,Computer Science,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T17:12:01.448057+00:00
 4e70b280-6a48-4273-b737-659701b2c703,Physically Sent Contaminations (STI),Sexually Transmitted Infections (STI),general,Medicine,Infectious Diseases,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.510000+00:00
 74438bc1-b2cb-4478-a9c2-a9f3db5fd63d,Physically Sent Infections (STD),Sexually Transmitted Diseases (STD),general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.510000+00:00
 6695892b-c9d7-4484-8e06-3194bb110ce7,physic-chemical assets,physical and chemical properties,general,Chemistry,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.751819+00:00
@@ -6170,11 +6242,13 @@ ba5ec754-c180-4685-b31a-06a7263011c5,possession fixation,ownership concentration
 bb08b8f7-1c73-4203-b179-9613f232baee,post-handling,post-processing,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.165415+00:00
 5bf034ec-0c32-4c1b-a58d-13ff1e9cff94,Post-horrendous PTSD,Post-Traumatic Stress Disorder (PTSD),general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.808668+00:00
 4fda244b-c353-4759-b888-0bc5fb1b5f2e,post horrible pressure issues,post-traumatic stress disorder (PTSD),general,Medicine,Psychiatry,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.637551+00:00
+96528bda-002c-4f5e-a429-c7717cab3d6c,"post, processing pipeline",post-processing pipeline,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T18:29:39.673284+00:00
 7a49af38-4654-4c31-95e2-f928a46904b8,post-usable patient,post-operative patient,general,Medicine,Surgery,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.865548+00:00
 979c94f5-ee28-4578-9fb4-e07ae547e6b3,PotenBal of ArBﬁcial Intelligence,Potential of Artificial Intelligence,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-02-21T19:46:55.535659+00:00
 fab1c3f0-8b16-40dc-b62f-1c9a99b82e79,potent capacities,powerful capabilities,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-16T08:27:40.514504+00:00
 fba8cc34-87af-48be-ba8f-ec8116c4816d,potential-future use of AI,future applications of AI,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-19T08:03:59.966920+00:00
 aff1f2c7-2cbd-4b0f-9015-b05f5e11a0f6,potential noise in image,image noise,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-19T17:46:54.748747+00:00
+e42865cd-0fb7-4b9b-81e1-32a0a5b60043,potential remote interference,remote access attack,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T17:58:01.428842+00:00
 84c64007-9e24-4177-bb28-035b6d881e35,Potentials Affecting the Event,event-related potentials (ERP),general,Psychology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.768871+00:00
 26151545-67fc-448e-9534-70d700f3dc8c,potential work with specific technical requirements,specific technical requirements,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-16T13:26:46.785817+00:00
 f921a1db-748c-4166-a88f-fba9948b5612,potent in vitro,robust in vitro,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-16T07:28:40.839182+00:00
@@ -6193,6 +6267,7 @@ b8516ea9-3df4-46fc-afea-34a37f914897,power tankage,power storage,general,Enginee
 77b82a21-d9c3-400a-b85a-dbaa61978e75,power weighted data transmission,intensity weighted bandwidth,general,Engineering,Telecommunications,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.596202+00:00
 e10a2e7d-c299-48ee-a5ea-c5a468a8ea3e,practical assembling,sustainable manufacturing,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-20T09:38:24.794660+00:00
 d09c18a3-f1fc-46fc-8563-67f6e48ee59e,practical memory illness,functional memory disorder (FMD),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.941195+00:00
+85976b29-961a-49c8-ac24-1367e8993527,practical syndrome-level indicator,syndrome indicator,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T18:26:50.528322+00:00
 034f73d0-2044-40d6-b1f8-05b4cd2c5289,pragmatic byzantine adaptation to non-critical failure,Practical Byzantine Fault Tolerance (PBFT),general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.768871+00:00
 174039db-f341-440d-8af8-4be4390562a5,Prandtl quantity,Prandtl number,general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.095666+00:00
 0799d4ae-e74d-45b0-a8d2-341f5b877283,pre- and post-handling,pre- and post-processing,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.271909+00:00
@@ -6274,6 +6349,8 @@ f2e9cabf-bbed-496e-94ef-c56a1cd2591a,pre-preparing model,pre-trained model,gener
 b795a5b2-b91b-4c7c-afe0-a736b2cef727,preproceability of the features,preprocessability of the features,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-17T07:18:40.742475+00:00
 7c49b1c5-11f7-461a-b520-28de1962f4cd,preprocessing ventures,preprocesing steps,general,Computer Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.251055+00:00
 6f929181-bec6-4781-a6fd-fde8e3ef21db,pre-programmed discourse recognition,automatic speech recognition (ASR),general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.710910+00:00
+ffcf6428-8c77-43a8-b4f4-e5aed14b5f1a,pre-proportionality failure mode,proportionality failure,,Computer Science,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T12:18:14.762122+00:00
+47356361-5723-436a-a717-0cdf13b10239,preproportionality failure mode,pre-proportionality phase,,Computer Science,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T12:18:14.762122+00:00
 ca2b2ba9-ddcb-4c35-841f-8edf0da0edb9,presage model,predictive model,general,Mathematics,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.857236+00:00
 f596ba67-0401-446d-850f-c6aec14300e0,prescient blunder,prediction error,general,Mathematics,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.921143+00:00
 cdce919a-3d91-45bf-aae3-75e1adb91152,prescient capacity,predictive ability,general,Psychology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.963885+00:00
@@ -6318,6 +6395,8 @@ f4ade862-6e6b-44c2-be04-d4249bb004e3,Primary Condition Displaying (SEM),Structur
 99775bfe-66d0-42d9-9ec4-6635af94cf06,primary request measurement,first order statistics,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.211628+00:00
 091e5d2b-a7af-42da-946b-413bd8e9a4ca,primary thing analysis,principal component analysis (PCA),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.694044+00:00
 8e05beb1-41a5-46b5-907e-b58b82b0e26b,primary thing evaluation,principal component analysis,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.516317+00:00
+1c919e7d-354f-4572-be53-c2b37e3bac5a,primitive features,low-level features,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T18:30:43.618738+00:00
+767b4378-e4d6-4c92-acf7-168e0cea70f5,primitive features in images,low-level features,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T08:13:48.303903+00:00
 63f718cb-3167-4e26-b92b-0bd74932116c,prince method,principle method,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-03-04T00:02:07.782835+00:00
 2cd0853d-07a8-4494-8a50-c69168afedd2,principal component assessment,Principal Component Analysis (PCA),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.898948+00:00
 20169292-0a75-44ad-9252-52571907038a,principal component diagnosis,Principal Component Analysis (PCA),general,Mathematics,Dimensionality Reduction,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.802180+00:00
@@ -6335,6 +6414,7 @@ b7c751ab-583d-4625-99bf-dbe37841fb8e,principle component analysis,principal comp
 1de2b8ff-68a3-412f-b38a-e19a7e4d43ce,Principle segment investigation,Principal Component Analysis (PCA),general,Mathematics,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.211628+00:00
 b36e3936-b9f4-413f-ab28-95445d31950d,printed circuit sheet (PCB),printed circuit board (PCB),general,Engineering,Electrical Engineering,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.316487+00:00
 e6dc16ec-b396-49b7-a192-4b14c4fa672a,prior intercession,early intervention,general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.913838+00:00
+ea2d328e-444d-47c4-b29a-99c475202acd,"pristine, pertinent patterns",clean data patterns,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T18:30:43.618738+00:00
 c078bbbf-d39d-4774-a0ca-6926d7a20bf0,privacy-minded solution,privacy-preserving solution,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T11:14:20.933656+00:00
 571796f3-fc8e-4a0c-a539-b8bdbd8fd9ea,"privacy, respectability, and accessibility","confidentiality, integrity, and availability (called the CIA triad)",general,Physics,Optics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.028172+00:00
 daafe30c-a5a1-4c64-8e69-c8f2d214b77f,private mists,private cloud,general,Physics,Electromagnetism,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.842122+00:00
@@ -6475,6 +6555,7 @@ fdfa869f-1b27-43af-9068-26884daf2ddd,prophetic model,predictive model,general,Ma
 e7c41f52-8339-489c-acc8-86ad6ba25647,prophetic modeling,predictive modeling,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.955433+00:00
 b09aa918-e12b-4e86-8c67-21ed49f03ded,prophetic typing,predictive typing,general,Computer Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.329518+00:00
 9302fdad-4c47-4f8e-a35b-05d893ffd234,Prophet information base,Oracle database,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.473603+00:00
+a42419ff-acc3-4097-bce0-3082f9e46d75,proportionality outcomes,proportionality analysis,,Computer Science,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T12:18:14.762122+00:00
 471d38e1-2687-4bde-b630-d5c616486574,proposal motor,recommendation engine,general,Computer Science,Anomaly Detection,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:59.379143+00:00
 9bf01268-42c0-4aae-a4d3-7e02bd187665,proposed have a take a look at,proposed study,general,Computer Science,Natural Language Processing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.135413+00:00
 14dad0f5-26a9-4441-8e07-7741bcb97aaa,proposed map,randomized map,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-01-31T20:28:17.958130+00:00
@@ -6512,6 +6593,7 @@ cc9604d5-222e-4f88-9afe-6ad374ec4d41,provocative gut illnesses,inflammatory bowe
 5b4e5f53-2e45-40c2-b67d-9bb6046fb827,provocative surrounding,inflammatory condition,general,Biology,Virology,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.316487+00:00
 59f28b90-3998-405f-af84-7c4735481e7b,proximity of the disease,presence of the disease,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.898948+00:00
 95a136ef-25ae-48d8-b013-7bd340aae943,pseudo-first query,Pseudo-first order,general,Engineering,Control Systems,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.153764+00:00
+6244348f-667f-4a21-ae0b-6b5ee0da8fb0,pseudo-polycentric equilibrium,pseudo-equilibrium or polycentric equilibrium,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T16:30:01.242588+00:00
 4abd8c13-136b-4c79-8e53-3c8e95b4ac25,pseudo-prime demand,Pseudo-first order,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.153764+00:00
 52184207-b83a-4aee-952f-2b55f58b15cd,pseudo-prime request,Pseudo-first order,general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.417155+00:00
 4d9e466d-1be1-47b7-8e0e-4a207b1b01d9,pseudo-second demand,Pseudo-second order,general,Biology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.272374+00:00
@@ -6659,8 +6741,10 @@ ae1c3c7f-a6e6-4602-9a0e-22d2a3075469,reaction surface strategy,response surface 
 20869cb0-7d79-41e6-ae8c-14251942cef9,reaction surface technique,response surface methodology (RSM),general,Environmental Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.182559+00:00
 f7a69493-e05e-47b3-806f-541a7fa89b53,reaction time to inquiry,query response time,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.579931+00:00
 f738aeb8-492d-4dcb-970f-7c47d2933152,reactive blend,reaction mixture,general,Chemistry,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.419514+00:00
+68e80354-caf5-452b-aee9-dee05df994fa,reactive towered the risks,reactive approach to risks,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-22T04:28:59.783344+00:00
 9803c9e8-f6ae-431b-942f-d620b6f7e2dc,readiness and testing correctness,training and testing accuracy,general,Engineering,Lighting Technology,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.329518+00:00
 b6697957-735a-4e0e-9a06-72792cac62e3,ready portraits,picture pre-processing,general,Computer Science,Image Processing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.085511+00:00
+4bf28fdd-c6a8-4e56-bcdc-e1dcec002500,real and fake cases,true and false cases,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T08:13:48.303903+00:00
 26a35c82-e873-4bca-9641-418b8e6a027e,real faced data,real facial data,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-04T00:05:51.454843+00:00
 7c488307-fc3c-4edc-8feb-e898bbc9ddb4,real fine charge,true positive rate,general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.751819+00:00
 3d0e7352-9d29-477d-8d61-2b1074ce881c,real fine fee,True Positive Rate (TPR),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.921143+00:00
@@ -6673,6 +6757,7 @@ da93f4f8-c34d-4f1e-85de-515645fb4e66,real positive rate,true positive rate,gener
 fba480b6-07bf-4afb-bbdb-d8369988875f,real-time learning,online learning,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-03-06T08:54:24.734485+00:00
 8f554072-00d9-4aaf-a8b7-0127cc260f8c,real-time lossless processing,real-time processing,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-01T08:37:49.937420+00:00
 00b43820-6244-4007-be72-658bd1846764,real-time network adaptation constraints,real-time data processing limitations,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-19T18:21:55.213426+00:00
+99c1772a-0f04-4c67-8caa-4f84f80eb031,"real, time RBRI visualization",real-time RBRI visualization,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T21:03:04.319924+00:00
 692e7d17-6a8e-4da5-ba01-da9aa5b225d8,real tremendous charge,true positive rate,general,Physics,Optics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.097164+00:00
 3199b724-141f-405d-aa59-558cc6ff331e,real-world applicability,real-world generalizability,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-19T19:04:41.124250+00:00
 a82887c5-b047-4695-88f3-af205eafa546,realworld data,real-world data,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-19T10:39:18.811706+00:00
@@ -7122,6 +7207,7 @@ dcd430d1-62b8-4e55-81e2-17d8b17df52a,secretion reduction,emissions reduction,gen
 f4e01ccd-7f45-4013-8c03-22fba97f54ca,secret Markov,Hidden Markov Model (HMM),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.309351+00:00
 84596c5e-41ab-4386-b1ca-389853b92404,secret neuron,hidden neuron,general,Computer Science,Neural Networks,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.245957+00:00
 56a74142-4d0b-4fa8-8d49-91699ef91503,secret node,hidden node,general,Computer Science,Computer Vision,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.780182+00:00
+e7cc9830-63de-4f2e-b024-ec8e0474d6ee,secret pixel,steganography technique,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-24T03:10:11.536629+00:00
 0751fdad-2f8a-4ff0-b7f2-2819e52a8a6f,Secret word Authenticated Key Trade,Password Authenticated Key Exchange (PAKE),general,Computer Science,Cryptography,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.824766+00:00
 e5805017-e233-4c8c-82da-6a6fc2118055,section and retrogression undertakings,classification and regression tasks,general,Mathematics,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.768871+00:00
 a3f2475b-4064-4577-9a3c-a7027f53d893,Sector Sentiment Dispersion (SSD),sector sentiment measure,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-15T17:48:05.751133+00:00
@@ -7591,6 +7677,7 @@ b72fa1b4-67dd-46db-83e9-506b57e0d078,squared fault,(mean) squared error,general,
 36bc43c7-e929-4e04-a984-6c8e90ff1d05,squared screw up,squared error,general,Mathematics,Statistics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.637551+00:00
 9f62d933-83ac-4da4-9f4b-566f76972968,square mistake,(mean) squared error,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:58.722191+00:00
 1eeadab5-13c0-4eb5-95ca-7c3546b8a87c,squares blockchain,blocks,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.606699+00:00
+cf7e6343-b348-4ff9-ab15-b49402b00485,squares of seemingly arbitrary tiles,data points,,Computer Science,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T12:18:14.762122+00:00
 0201d4d0-7988-4c1a-9eeb-7a770adc113e,squatness of inhalation,shortness of breath,general,Computer Science,Networking,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.653403+00:00
 b20f109f-43a7-46c5-93f5-320b763dcf4e,squeeze and focus,squeeze and excitation,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T15:33:13.330324+00:00
 15b526bb-3b50-4a51-8a36-036821edbaea,squeezed ow index,squeeze number,,Engineering,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-10T09:39:52.075830+00:00
@@ -7705,6 +7792,7 @@ e3d00d96-4ab9-4ca2-9729-3c126c219f81,strength data mining clustering algorithm,d
 96dddae1-9fcb-407c-8fe2-657252e36f84,strengthen vector machine,support vector machine (SVM),general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.978925+00:00
 a401d39b-6bd9-48a6-8384-5933d1b67054,strength garage,energy storage,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.328837+00:00
 a1933b5f-4d83-4705-a167-3862eb3baec0,strength grid,power grid,general,Engineering,Electrical,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.245957+00:00
+1145ba5d-5000-46a6-80cd-676a6ef239eb,strength solution,strong solution,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-23T16:28:45.587380+00:00
 6ceccb8f-a9f0-4106-b081-9e18348f1b46,stretchy arrangements of ideas,flexible pedagogical frameworks,,Psychology,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-17T11:53:12.551529+00:00
 e45fd3cd-4ac2-406a-af7b-f396d1a9bcec,stroke seriousness file,Stroke Severity Index (SSI),general,Medicine,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.003510+00:00
 68fb2274-c158-4972-8d93-b129aa9698d1,strong and monotonous correlations,strong and consistent correlations,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-21T12:16:10.193432+00:00
@@ -7716,13 +7804,16 @@ cbbc11a0-c724-4697-b5df-2265a4d3cd2c,strong expressive ability,expressive power,
 f289153d-fdaa-4168-b726-1912e8e85a0a,strong functionality,robust functionality,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-20T05:35:06.618226+00:00
 6ff2aaa1-3b2d-4f10-9e0a-78d6713338ca,stronghold vector,support vector [machine] (SVM),general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.653403+00:00
 92dba799-163a-4c71-ae2c-22ee6a7a1fef,strong immutability,complete immutability,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-16T13:24:45.966874+00:00
+02b73426-146d-4cb7-ae36-8a76e4c7daaf,strong pseudonymization,strong deidentification,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-23T16:28:45.587380+00:00
 3918c709-6002-459c-b121-c375215042a9,strong state circle,solid state disk,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.808668+00:00
 f8f8f745-3fa1-4b95-aad9-cd3f178037fc,strong types of AI solution,robust AI solutions,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-02T13:29:39.622915+00:00
 ee650315-031a-4a81-8c12-548c3f6fc567,structural cognition,structural learning,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-02T13:29:39.622915+00:00
 6e6c5f2d-af49-4084-8bc8-529625841659,structural fitness observance,structural health monitoring,general,Engineering,Structural Health Monitoring,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.824766+00:00
 ce66dd0f-0e64-4dd1-ba3b-fa24ec0abc31,structural health observance,structural health monitoring,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.694044+00:00
 61b175f0-9ee7-443c-97e4-8b81dcf6c148,structural health watching,structural health monitoring,general,Computer Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.768871+00:00
+666ee032-0772-438e-b2f1-a1919cdaa85b,structurally radially connected,radially connected,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T16:30:01.242588+00:00
 07c0559c-6b6b-4dbc-997b-6331e9266d65,structural modularity,modular structure,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T14:15:46.642414+00:00
+2351ba65-a098-4ec2-b9cd-668f596a1431,structural scalar lock-in,structural lock-in,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T16:30:01.242588+00:00
 bddc69df-a122-461a-be52-6ebaebeef956,structural structure,structural design,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-02T13:29:39.622915+00:00
 32435280-7433-4bf9-b952-7fa43f6c59a6,structure of Smartphones Operating System,architecture of smartphone operating systems,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T04:41:48.458717+00:00
 4ba9f410-2c3c-4900-8e12-c02461093265,student-teacherbased SSL model,student-teacher framework,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-03T16:46:59.295447+00:00
@@ -7733,6 +7824,7 @@ a7cbf6c2-2800-4dbe-b93b-cdd033930a4b,sub-atomic weight,molecular weight,general,
 3f23229e-0543-44b8-aa28-a85346059f72,subByte function,S-box,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-03T23:50:34.891028+00:00
 599ff2e0-e8db-4379-9bc2-63f3857c78d5,subjective validation,qualitative validation,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T11:54:58.357992+00:00
 0c9d1977-0cfa-4f02-8fb9-675d97f83948,subjectivity analysis,sentiment analysis,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-12T18:17:39.088724+00:00
+d27f6408-8cfa-416d-a06b-28bd7f3b4267,sublethal cytolysis,sublethal cytotoxicity,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-24T10:18:55.429025+00:00
 042a83db-6f9a-4d41-9e1f-9f7b772457dc,suboptimal neural architecture,convolutional neural network (CNN),general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.085511+00:00
 acbc2c62-7ee4-48e4-afb2-20835086c633,subsampling iterative technique,subsampling technique,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T04:54:34.511163+00:00
 a359f8be-ec91-49d3-ae81-d6df7bbce815,substance based picture recuperation,Content-Based Image Retrieval,general,Computer Science,Image Retrieval,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.373988+00:00
@@ -7743,6 +7835,7 @@ ad9cbd6b-8672-45bb-be51-9aec04359c6d,substantial cerebral association,deep neura
 0c252dde-aabb-441d-94f6-2798d0fbdac8,substantially stretched period,protracted period,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.596202+00:00
 35f9b9ba-a435-47ab-97e3-dc0465e13135,substantial metal ions,heavy metal ions,general,Chemistry,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.245957+00:00
 bd166c8b-4af1-414c-b1a5-579a29a0661f,substantial metals,heavy metals,general,Chemistry,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.334592+00:00
+c2a76bcf-d437-4528-a97a-99dd9effb7dd,substantial variation technically in mechanical response,substantial variation in mechanical response,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-24T13:11:14.074535+00:00
 4f4ec4d9-d231-4d43-b751-95c6fcbb3cab,substrate misfortune,substrate loss,general,Biology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.272374+00:00
 d7b72eaa-e4e8-4423-bb0e-4e4952885d58,substructure allocation,infrastructure provisioning,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T11:54:58.357992+00:00
 9d44ba19-1686-4da9-8bad-98244ebc8f71,substructure portability,infrastructure portability,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-15T15:32:18.923557+00:00
@@ -7844,6 +7937,7 @@ dd963953-b693-4242-b92d-6e75bb634728,surface highlights,surface features,general
 fb44539c-5062-4458-972e-e1f305308264,surface unpleasantness,surface roughness,general,Engineering,Materials Science,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.838622+00:00
 40d0a37b-8bb4-42a8-941c-bdc0fa701623,surgical intercession,surgical intervention,general,Medicine,Surgery,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.457436+00:00
 ea417162-fddd-4332-891d-971d951fd510,surrender estimate,yield estimate,general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.85,2026-01-20T08:12:01.921143+00:00
+3cedccb5-0f2b-4614-9731-f509c1a6c0cc,surrogates. In manufacturing mechanics,surrogates. In manufacturing engineering,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-24T14:23:41.101349+00:00
 6119a981-d891-466d-90a6-e1f11141cb9d,susceptible of CNNs,sensitivity of CNNs,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-03T18:03:38.065115+00:00
 e0add7f1-8d3a-453e-8bac-3da79d586173,suspicious activities’ relevant features,anomaly detection features,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-15T18:51:47.692924+00:00
 0294d503-8421-4eaf-9b2e-f359a470715d,sustain cutaneous wound healing,promote cutaneous wound healing,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-16T20:18:11.192534+00:00
@@ -7887,6 +7981,7 @@ b9273ff1-e7c6-44ff-8b82-60d4e9d1e594,synthetic aptitude,artificial intelligence,
 8fd0ff59-519d-4e22-a323-bc91dc5dfacd,synthetic intelligence,artificial intelligence,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-02-27T12:11:38.525345+00:00
 8e41374c-4c06-41a6-9019-841a01bff311,Synthetic Intelligence of Factors,Artificial intelligence if things (AIoT),general,Economics,Finance,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.653403+00:00
 9042139b-fe85-4414-b73a-21618c8e2f99,synthetic neural community,artificial neural network,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.245957+00:00
+0276c9cd-9af5-4a10-b823-472bbf1ad51c,synthetic object attacks,digital object attacks,,Computer Science,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-22T17:12:01.448057+00:00
 8aef2d8c-3f06-4f60-8f51-e8b3637f23a4,synthetic thinking,artificial intelligence,general,Computer Science,Artificial Intelligence,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.85,2026-01-20T08:11:58.898948+00:00
 6a9514f4-f17f-44b6-ac8c-f15c4c9f14e5,system-agnostic configuration file,provider-independent configuration file,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-10T17:32:59.937139+00:00
 476f80b5-246b-4d0c-bc84-66e36b9ed7e2,system disappointment,system failure,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.200878+00:00
@@ -7898,6 +7993,7 @@ de648a0c-b41d-489c-b868-20be0f19e7ea,system getting to know,machine learning,gen
 1038218d-a759-441c-b48d-fa0cdf3cf69c,system learning (ML),machine learning (ML),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.623196+00:00
 d238319a-e092-4f06-aad1-38471773fdcb,system mastering,machine learning,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.538212+00:00
 effa3904-9621-49db-b32d-8940676d2816,system mastering strategies,machine learning techniques,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.85,2026-01-20T08:11:59.540422+00:00
+b96a1637-cf61-4000-8ce3-fdd3efad1ec1,systems modernization 'gap',technology modernization gap,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T21:03:04.319924+00:00
 390391f2-53a7-4a18-8fcc-7052c6ecc846,system studying (ML),machine learning (ML),general,Computer Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.716324+00:00
 c35b8932-5276-4b80-a140-6bf3fd17875c,system translation model,machine translation model,general,Computer Science,Natural Language Processing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.055451+00:00
 52ad4c1a-22b6-4606-af63-7232673841c0,systolic circulatory strain,systolic blood pressure,general,Medicine,Cardiology,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.251055+00:00
@@ -8015,6 +8111,7 @@ be52d7e7-ef41-4a72-a352-781e2157c1fe,the least precipitation values,the lowest p
 5362d8b4-9a8a-47be-9f64-115df4c85f92,the machine,machine learning,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T13:37:20.102196+00:00
 4b37d423-5cc6-43e9-96b4-590343d99032,the mark of graphs,graph labeling,general,Mathematics,Graph Theory,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.387766+00:00
 b3b0e94f-be46-4e74-aca9-121337fd0eda,theme co-event grid,Motif Co-occurrence Matrix (MCM),general,Computer Science,Data Mining,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.530908+00:00
+756a7d87-480e-4fcf-b85a-56a0bf237317,the missing of user behavioral profiling,user behavioral profiling,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-23T16:28:45.587380+00:00
 f8642d97-0ef5-450b-b752-3f996de7e434,the most eﬀective seYings,the most effective settings,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-21T19:46:55.535659+00:00
 be5587a0-507c-4a0f-9170-19395c80955a,the most optimum feature set,the optimal feature set,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-10T15:13:28.611665+00:00
 243dcea0-806c-4342-b471-4c3e9015f476,the mtion preformances,the motion performances,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T12:23:54.692753+00:00
@@ -8037,6 +8134,7 @@ b0ba64c2-ccef-4a26-b4ad-a77805a119d9,therapeutic determination framework,medical
 4a96fc2f-66b4-41e1-87c6-dfe7de5b56a9,therapeutic picture,medical image,general,Medicine,Medical Imaging,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.963885+00:00
 c90152d7-067e-43bd-9482-7433088065aa,there prostitutes show,the results show,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.473603+00:00
 12656788-0e11-4d5f-9570-13776b2f4312,The residual sheet is agreed as follows,The rest of the paper is organized as follows,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.530908+00:00
+34a33b35-0bb8-4c14-b276-d6c338187956,therisksand risk mitigation,risk assessment and mitigation,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T04:44:19.926368+00:00
 09ee1eee-98fa-4143-9f6e-a5920f99aee5,thermal form of solar energy,thermal energy,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T12:17:14.106539+00:00
 b957fba3-4a28-40c5-bd6c-01950b029aa6,thermal heightening,thermal expansion,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.373988+00:00
 3573b523-193b-4a36-afe9-e68cd495b502,thermal radiation found the impact,thermal radiation effects,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T12:33:40.702814+00:00
@@ -8053,6 +8151,7 @@ cabeacd3-b39f-4b4e-baf1-e78614f7e8ba,the shafts of the agar,streaked agar,genera
 b38f9af8-c20e-4c5f-9018-4d0092bb9cbc,the technology-flexibility relationships,technology-organization relationships,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-21T21:34:16.711058+00:00
 6b9e9ea3-dc7a-49fa-bb9f-38f862c3d577,theuja optimization,JAYA optimization,,Computer Science / Optimization / Machine Learning,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-01-27T07:21:43.741769+00:00
 281a7dba-d998-44f6-87e0-f557e6279654,the utilize of MATLAB,the use of MATLAB,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T12:47:49.051840+00:00
+92ab314d-8f0a-4445-b274-24097e01e400,the walls of bricks,firewalls,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-22T08:13:48.303903+00:00
 36687eaf-b5ff-4167-964e-a5c835f0efad,thick boobs,large breasts,general,Biology,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.978925+00:00
 f4e525d9-62d9-4241-8d32-dfd7e6e6afb3,thick cementitious networks,cementitious bonds,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-10T07:44:36.281794+00:00
 8e7d6520-702d-4b32-a145-5d54f3bdefaa,thick dissemination,viscous dissipation,general,Computer Science,Networking,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.652036+00:00
@@ -8122,6 +8221,7 @@ bf5b3b6b-4db2-4133-a399-fa0aea265c90,tokenize or generate unique ID,tokenization
 d68904fa-cdfb-4e84-a4a1-5a311b56b56b,tolerant injury,patient injury,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.971704+00:00
 06baf8fa-7f5f-44d3-b8ed-09e3d0152101,tolerant observing,patient monitoring,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.652036+00:00
 06c988f4-dda7-4d41-9c76-47ec2cb85c1c,to make this clone happy,to optimize the model,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T13:37:20.102196+00:00
+0b5443f7-dd92-4f48-bdb1-77bc44869d5f,tome content,document content,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T18:30:43.618738+00:00
 3df0360b-f785-411e-ac4a-22521fdb4254,to mislead the votes,to tamper with the votes,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.865548+00:00
 cd81474b-5942-4b33-b00c-5fcdf8f6abd1,tongue method,language processing,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.501885+00:00
 28e68e1f-ac71-4fb7-94ad-fd3ce42cbebd,tongue processing,language processing,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.245957+00:00
@@ -8129,6 +8229,7 @@ cd5c909a-9bf5-4d84-988d-50c8ce499530,to nibble people,to bite people,general,Med
 20e66712-f58a-4b9b-a6fc-29b539bea3f0,Tool Learning (ML),Machine Learning (ML),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.516317+00:00
 a9185479-dd78-4565-991e-55671cf6d88a,tool studying (ML),Machine Learning (ML),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.361211+00:00
 5437cf0a-3aa4-4bc0-9b19-bd44f6a9db1a,top learning,deep learning,general,Computer Science,Search Algorithms,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.898948+00:00
+7cbae16e-5e95-4848-bf16-8994c5623f12,top-level *Corresponding author,higher-level features,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T08:13:48.303903+00:00
 d759183c-f999-4277-a47d-ca58879dbf28,top-notch mouthpiece,high-quality microphone,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.710910+00:00
 50274cac-aafd-4aec-b739-e81f9a7b3981,top notch picture,highresolution image,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.120634+00:00
 ccb5c808-3669-4779-aff5-e9fd8f5687f9,topological deep learning,topological learning,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T13:35:05.383018+00:00
@@ -8166,6 +8267,7 @@ e8b76944-d10a-4bfc-87f1-b534e6590563,touchy inside disorder,irritable bowels syn
 1182c2b2-c23e-48e1-85a8-343008db1365,T partner lymphocytes,T helper lymphocytes,general,Biology,Immunology,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.445369+00:00
 28e0e1be-0029-4aed-8f58-9e6a5fb4f4f5,trademark flag,characteristic peak,general,Chemistry,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.971704+00:00
 98dd701f-f250-4371-bb0f-35507979b48e,trademark lingo taking care of,natural language processing,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.211628+00:00
+ad8e2d77-1dce-4cee-ae84-5b69cd062501,"trade, off",trade-off,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-22T18:29:39.673284+00:00
 214d6663-24c6-4c12-9b8b-eda2aa741676,trade sincerity,trade openness,general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.257942+00:00
 95d3142a-a14b-4370-bdcc-ea95a16202cb,traditional type of existed systems,traditional systems,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T15:13:01.246448+00:00
 f9352998-2e3b-4aa9-a129-5612476727bf,traffic clamor,traffic noise,general,Computer Science,Cybersecurity,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.971704+00:00
@@ -8235,6 +8337,7 @@ b2f4e140-a743-4e4f-950c-570ca244072a,trim malady expectation,crop disease expect
 da44c848-0938-478e-b6a0-d94182d3155c,trim surrender expectation,crop yield expectation,general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.417155+00:00
 5e2fb76f-03b6-4193-bdeb-bed5abac2668,triple keys,encryption keys,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-04T01:18:48.200586+00:00
 5bac1141-5268-4d8c-ab2f-cf11d3d3be20,triple keys before decryption,decryption keys,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-04T10:00:30.396611+00:00
+4599148f-39e3-40ad-a1d7-0912d15802a4,triplicated form of the AES key,redundant copies of the AES key,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-24T03:10:11.536629+00:00
 2d640117-f9da-4d9e-a86e-e0d32bb0a41f,triumphantly synthesised,successfully synthesised,general,Medicine,Cardiology,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.898948+00:00
 364554b1-fc7a-4023-b00b-476fe481a3bf,trivial influencer,insignificant predictor,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.808668+00:00
 36a956d2-3beb-4f26-a7a7-17af986f4f66,Trojan steed,Trojan horse,general,Computer Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.652036+00:00
@@ -8296,6 +8399,7 @@ a05592b4-06e1-406c-ae75-0a1d8673a028,typing stability indices,typing stability m
 fbcab5bc-ef82-4840-a3f7-f3ca0d2b86d6,UDP bundle,UDP packet,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.652036+00:00
 348b747f-1cc5-4095-9d39-a691067be34c,U-internet,U-Net,general,Computer Science,Deep Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.457436+00:00
 d9c6a68c-6d6d-4ab8-835e-cebe0b1478d7,ultimate comes about,final result,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.579931+00:00
+e93194f7-a833-4a91-b0ca-a54ce0130c1a,ultimate utterly fracture actually loads,ultimate fracture loads,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-24T10:09:56.580538+00:00
 bc51611b-f30d-4f19-b9ef-7e74ce047ebe,ultra great workability,ultra high performance,general,Mathematics,Logic,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.637551+00:00
 cdfeda26-728a-4f5b-a1c7-11b45006d8e1,ultralightweight model through parameter quantization,lightweight model,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-19T10:39:18.811706+00:00
 91da4fee-3f15-494f-9dee-350fca6ad130,ultra linear response matrix,linear response,,Engineering,Mechanical,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-17T18:43:10.297322+00:00
@@ -8887,11 +8991,19 @@ b223a187-6a67-4221-a51a-912f8dc11078,zero-day attacks,zero-day exploits,,,,verif
 0ecb075c-5769-4bd8-8064-457fa4e518ec,zero-day vulnerabilities,zero-day exploits,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-03T20:37:00.827408+00:00
 130c2dc0-dbbe-489d-adb7-9e6c1dba79d8,Zero intersection rate,Zero Crossing Rate (ZCR),general,Computer Science,Signal Processing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.652036+00:00
 d64975e4-b11b-42c3-813e-e4b6d3c179fb,zero-request mode,zeroth-order mode,general,Mathematics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.003510+00:00
+0fa7085b-6dce-4666-99cf-8ad198d081ba,"zero, shot",zero-shot learning,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-22T18:29:39.673284+00:00
+1596c22a-5c76-4141-9339-558fd76064c1,"zero, shot performance",zero-shot performance,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-22T18:29:39.673284+00:00
+92e998ea-c5ef-47a4-b898-1ab3e4afd0df,"zero, shot pretrained",zero-shot pretraining,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T18:29:39.673284+00:00
+76478e84-ddfc-480b-a8dd-f4e1b703bb39,"zero, shot transfer limitations",zero-shot transfer limitations,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T18:29:39.673284+00:00
 d9ec15e5-eac1-480f-a0b0-521d6c67e088,zhang’s meter,Zhang’s metric,,Data Mining / Association Rule Mining,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-01-24T11:41:54.091592+00:00
 282f38b8-7a61-40a1-ab51-84b443e490a5,α-L-gulonic hyaluronic acid,α-L-guluronic acid,general,Computer Science,Natural Language Processing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.097164+00:00
 fde2ae31-e1ed-48e0-8e89-634bf175ef25,β-D mannose hyaluronic acid,β-D-mannuronic acid,general,Computer Science,Data Mining,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.097164+00:00
 321952dc-fed3-42c7-b9bb-1872c61b0743,الغربال رؤيٌة مثقوبة,filtering or distorted vision,,Psychology,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-18T18:23:15.513579+00:00
+1f2b142d-898f-44e6-93a3-377f3ec073f9,المبرمج المعيب,defective programming,,Medicine,Oncology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T05:55:33.954546+00:00
 d62fedd0-3067-4a73-bfe0-cb27a5232715,تسلسالت هرمية تراكمية للغات,hierarchical language structures,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-15T20:23:55.483749+00:00
 384ce1da-690c-4172-a9b7-61b0c614d25d,شّدة الّظلماجاري,intensity of injustice,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-18T18:12:00.893040+00:00
 b7d1974c-a672-47aa-8c2b-5b7f72f1961f,طلب النجاة,survival mechanism,,Psychology,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-18T18:23:15.513579+00:00
 df70287d-4a11-4093-b042-ff19eb5116cd,قياس السلكي سلبي عن بعد,wireless passive measurement,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-05T19:17:57.262187+00:00
+5a3ea8e6-25d5-4bbe-8919-fa96e47e899f,معامالت التوهين,attenuation coefficients,,Engineering,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T17:24:05.311595+00:00
+0721c23b-4342-4879-b106-4050db32c013,معامالت امتصاص,absorption coefficients,,Engineering,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T17:24:05.311595+00:00
+2f3c23c1-467f-4216-82b6-fefcb115f55e,نموذًجا مرًبّكا,confounding model,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-23T02:32:38.809168+00:00
