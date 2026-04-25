@@ -753,6 +753,7 @@ e8231d37-3846-4832-bf92-00480a1c0042,blended getting-to-know,blended learning,ge
 a4d6cab9-6de3-46ad-a90f-14520f9f27db,Blend Stowed away Markov Component,Mixed Hidden Markov Models (MHMM),general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.201815+00:00
 db57b7f8-8a30-45e4-9f90-2e00bf58b753,blind temperature,Curie temperature,general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:58.838622+00:00
 06727431-f637-4663-8e85-f67a1dfed210,"bliss, trouble, amaze, outrage, sicken","happiness, sadness, surprise, anger, disgust",,Affective Computing / Psychology,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-01-24T11:16:14.354742+00:00
+4b591051-db7c-4145-a0bf-162e9a2cbf83,blockchainderived trust,blockchain-derived trust,,Engineering,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-25T08:25:59.030427+00:00
 c1cbd1b3-318a-43de-8f4f-5f7cecbb3832,blocking curios,blocking artifacts,general,Computer Science,Image Processing,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.579931+00:00
 53cb6531-6d80-416e-9f7e-7de1ec2893b4,blocking inside misuse scenarios,preventing insider threats,,Medicine,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-23T16:28:45.587380+00:00
 5015097e-f18f-4071-8e39-a947fb67d4f9,blocking ration,blocking ratio,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T13:10:20.681198+00:00
@@ -1269,6 +1270,8 @@ a738fab3-45bc-4abf-ae09-b49107f0e8da,clustered frequently interspaced brief,clus
 6c4c6f1b-1ac4-42d8-82c4-c3d62deec778,clustered routinely interspaced,clustered regularly interspaced short palindromic repeats (CRISPR),general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.272374+00:00
 714b2e32-c6dd-4573-bb31-86da5cae910f,cluster head political decision,cluster head election,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.473603+00:00
 53e4955b-df35-416b-8274-ab50f1ee16f7,clustering-based density,density-based clustering,,Computer Science / Machine Learning,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-01-25T16:57:57.568337+00:00
+0d539a14-0e0d-4da2-ad01-8192f7559b7b,"Cluster Membership Exploit, CME",Unauthorized Controller Join,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-25T07:10:25.548832+00:00
+d5ee4a22-fe85-46e5-afb6-711d2e18e68e,Cluster Membership Exploits,controller membership exploits,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-25T07:10:25.548832+00:00
 05989449-b9f6-4cd5-a583-74192424fde8,CMS medical clinic without walls,Hospital Without Walls (CMS program),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.073626+00:00
 fe9d4bd3-3847-4f71-9366-0b53acdd149f,CNN engineering,CNN architecture,general,Medicine,Epidemiology,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:58.662706+00:00
 db7fcff6-7cc7-442e-a822-b27e7218d6ce,CNN technological advancements,CNN technology,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T13:54:21.048166+00:00
@@ -1482,6 +1485,7 @@ c3e7f7a1-80c2-4465-898a-0675bbab3722,"confront, iris, finger, palm","face, iris,
 77f1318b-ce2d-4aaf-a232-44d9c109b6ab,congestion mindful message,congestion aware message,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.201815+00:00
 ef6d18da-b7a3-401b-b46e-df88a04f8071,conjugate inclination,conjugate gradient,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.857236+00:00
 1487977b-5938-4a8e-bf19-c6ee887c8363,connectin (titin) role efforts,connectin (titin) role in,,Biology,Molecular Biology,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T10:50:59.308007+00:00
+6694f89f-317e-4e80-9b5d-da5cef12b606,conniving information,misleading information,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-25T06:57:36.441337+00:00
 b155984b-ba7c-47fc-935d-31ace5be7596,conscientious cancer,benign cancer/tumor,general,Computer Science,Networking,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.694044+00:00
 588c94ca-50c8-49b0-baba-8b88770d48fd,conscientiousness for the thrashing,responsibility for the loss,general,Computer Science,Algorithms,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.710910+00:00
 96c3d2c5-4b49-46b0-952e-acd7e8f5c05c,consequences be damned,You Only Look Once (YOLO),general,Computer Science,Computer Vision,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:58.838622+00:00
@@ -1497,6 +1501,7 @@ ab280861-d9a5-408a-a5e5-0e19825e9372,consistently interspaced,clustered regularl
 5f1f6ca0-eb43-4e0c-87ff-fe907aa16294,consonant mean,harmonic mean,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.251055+00:00
 69186b07-404d-4d68-b9bf-f3084081f1dc,consonant to commotion rate,Harmonic to Noise Rate (HNR),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.530908+00:00
 a861ba22-1051-443a-bbd7-e9919156d9b6,constant aggravation,systemic inflammation,general,Environmental Science,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.316487+00:00
+f956d033-a2ec-42f2-9f2e-2c953536a893,constant depravity devices,degrading components,,Engineering,Electrical,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-25T10:29:50.745825+00:00
 fae55978-9ad8-448d-87bd-7e3c44c214dd,constant joining and testing,continuous integration and testing,general,Computer Science,Data Privacy,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:03.201815+00:00
 b727cfab-22f4-404e-bad1-310fcd20361c,constant verification policy,continuous verification policy,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-20T06:21:22.844630+00:00
 2170b697-8fc2-42a5-ac46-0fe97cd5ce1d,constituent trees,individual trees,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-12T16:59:56.657530+00:00
@@ -1803,6 +1808,7 @@ fab2f684-2af5-4339-b41d-f079c51dcee8,cryptic node,hidden node,general,General,,v
 22878d24-72d1-4767-8585-eb81bb9d20fc,cryptographical power,cryptographic strength,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-04T09:43:44.401479+00:00
 028419a5-f8da-4d9e-a16d-c46332e61ac6,Cryptographic attack,cryptographic vulnerability,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-08T15:35:22.082970+00:00
 55d1e4e4-3897-488e-9a70-f66feab95e53,cryptographic linked blocks,cryptographically linked blocks,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T13:24:45.966874+00:00
+c4f14d1f-de82-4ab0-b5c6-cf479de24433,cryptographic on-chain membership validation,on-chain membership validation,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-25T07:10:25.548832+00:00
 cbab6fd4-f6b3-4791-8529-916c95490f27,cryptographic torsion,cryptographic techniques,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-16T10:41:27.482832+00:00
 bc47d03e-bfed-48b7-bd87-e2e7b741be89,cspectrogram imaging,spectrogram imaging,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T12:32:16.406612+00:00
 48d5d624-3456-459e-9819-e33d8a7f83c5,cubed phase,cubic phase,general,Physics,null,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.716324+00:00
@@ -4612,6 +4618,7 @@ edbd186d-17c0-4cf3-8b3e-33937404b2e9,leakage of personal information,dropout of 
 fab2f5ec-8f8d-4106-a15f-7071fd4ce5be,leak regularization,L2 regularization,,Machine Learning / Neural Networks,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-01-24T11:13:31.027909+00:00
 a59c1aba-3723-4298-8682-3738d4b82ae7,lean deep learning models,lightweight deep learning models,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T13:04:08.833951+00:00
 7b09ecb9-21e1-47fb-af49-f03bba9e371b,lean movies,thin films,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.142942+00:00
+3b886372-420f-4b08-aaad-fc919b20b029,lean-to point out articles,tend to highlight articles,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-25T06:57:36.441337+00:00
 3991757c-c1a0-4aa9-8932-49fe388c89f6,leaptrof improvements,leptokurtic improvements,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-15T20:53:03.661611+00:00
 e4cde0a6-89a8-4a9c-ba43-c6ce3e76c4aa,learner performance-based behavior,learner behavior,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-01-31T13:26:21.761771+00:00
 7ec4fb0d-7233-4636-b4f3-c010dcbf0478,learning bend,learning curve,general,General,Learning Theory,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:11:58.722191+00:00
@@ -4906,6 +4913,7 @@ d44a51ea-e64e-49b4-b0e2-d9b13396f9db,malevolent traceability efforts,malicious t
 2f13fe1c-75e1-4d4e-8c1c-d03d4e9b8f26,malevolent tumor,malignant tumor,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:11:59.842122+00:00
 52ecba9f-ef97-48ef-86f7-2b7038775756,malicious and 3 harmless traﬃc captures,benign traffic,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T04:54:34.511163+00:00
 5f14d417-a1ec-4e68-8f71-0e6f41dcfa5c,malicious determinations,malicious purposes,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-04T09:53:20.910040+00:00
+e4cec14d-6cdb-4c94-ad95-2fa809e575c2,malicious Flow Injections,flow attacks,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-25T07:10:25.548832+00:00
 81c9fdcc-e0ae-474e-8614-0a5a68cc2192,malicious gradients,adversarial examples,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T09:37:22.882137+00:00
 18a44b01-a5a3-4d97-bcec-c621bf57ec99,malicious ordering nodes,malicious actors in a blockchain context,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.85,2026-04-16T13:24:55.681645+00:00
 7e244f8f-9131-41af-aef2-0d2c57912892,malicious Sky mote,malicious device,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-10T04:54:26.967828+00:00
@@ -5568,6 +5576,7 @@ bb03fa7f-5a28-4cb9-9de9-a4767df2038c,non-inexhaustible,non-renewable,general,Env
 2a437406-cea6-4234-8d85-2f39672b535c,nonlinear advancement equations,nonlinear evolution equations,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.417155+00:00
 394f1a2a-e8f5-4631-9b9b-e5d58a838807,nonlinear centrifugal relationship,nonlinear relationship,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-06T07:24:57.420925+00:00
 4c28e378-8507-4cf8-b727-82f5fa678ca3,nonlinear vitality administrator,nonlinear energy operator,general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.361211+00:00
+a493bb79-41ea-461c-b596-1b078a6f4dc8,nonmutable ledger,immutable ledger,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-25T07:10:25.548832+00:00
 1c25578e-6713-4c1f-b805-788ee8576b38,non-natural aptitude,artificial intelligence (AI),general,Computer Science,Artificial Intelligence,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.097164+00:00
 3bf88286-7e18-4c1e-b459-152623de3fea,non-negative framework factorization,Non-negative matrix factorization (NMF),general,Chemistry,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.751819+00:00
 299a7a7d-e498-44f9-9197-3882c5582cd0,non-observable pathway,non-line-of-sight (NLOS),general,Physics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.257942+00:00
@@ -6494,6 +6503,7 @@ e9260098-9922-417e-9a56-69702b7efdb8,profound repetitive model,deep recurrent mo
 a2a16d7c-a495-4c4f-ba46-0af5942e9203,profundity model,deep model,general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.316487+00:00
 53f576e2-313c-4de6-82a8-e83a00d3caa3,profundity of cover,depth of cover,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.211628+00:00
 96c33e54-4fd6-4e45-a78b-e68e7f4e3c5d,prognosticated fashion,predictive model,general,Computer Science,Data Science,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.710910+00:00
+291a8d88-1afe-4b53-928b-0d0437563b13,Programmable chain code,smart contracts,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-25T07:10:25.548832+00:00
 8f3fac7e-99f2-482e-beec-0965877e6a4b,programmable rationale gadgets,field programmable gate array (FPGA),general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:00.971704+00:00
 f552f21e-ceb3-4d14-b36d-b1a6cbaf062f,programmatic resource status,resource status,,Computer Science,Artificial Intelligence,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-15T15:32:18.923557+00:00
 47b44335-f8ee-44ba-bdb6-d015fb311663,programmed acknowledgement,automatic recognition,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:00.328837+00:00
@@ -7079,6 +7089,7 @@ b4b983d9-1c4c-4cd6-ae7e-3e86ff2ecc59,room motivation reaction,Room Impulse Respo
 cefccc8c-0817-40d4-825f-969661a4dbff,room motivation response,Room Impulse Response (RIR),general,Computer Science,Neural Networks,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.824766+00:00
 2bb132fb-a394-4c8d-89ae-11a48bb90ace,room pressure response,Room Impulse Response (RIR),general,Engineering,Acoustics,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:02.097164+00:00
 0b794229-d3bf-4f04-a228-4f3a3314cd76,root cruel square mistake of estimation,Root Mean Squared Error of Approximation (RMSEA),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.824766+00:00
+1b03b718-ddd5-4625-825d-497789ca9adb,rootendorsed membership,root-approved membership,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-25T07:10:25.548832+00:00
 5c253615-158f-46a9-ad59-c539d8d297ad,root hitch,root node (in a decision tree),general,Computer Science,Data Structures,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.579931+00:00
 4b9371d6-f2ef-4258-ae97-fe15a0a8d394,root imply rectangular blunders,root mean squared error (RMSE),general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:03.387766+00:00
 ed86a4c8-9ec4-429d-8e33-cbf01ba20bb2,root suggest rectangular error,root mean square error,general,Computer Science,Machine Learning,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.200878+00:00
@@ -7815,6 +7826,7 @@ ce66dd0f-0e64-4dd1-ba3b-fa24ec0abc31,structural health observance,structural hea
 07c0559c-6b6b-4dbc-997b-6331e9266d65,structural modularity,modular structure,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-18T14:15:46.642414+00:00
 2351ba65-a098-4ec2-b9cd-668f596a1431,structural scalar lock-in,structural lock-in,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T16:30:01.242588+00:00
 bddc69df-a122-461a-be52-6ebaebeef956,structural structure,structural design,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-02T13:29:39.622915+00:00
+e559f19e-4857-4b3f-814b-3d4364d65cef,structured transformation strategy,data transformation,,Computer Science,Machine Learning,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-25T06:57:36.441337+00:00
 32435280-7433-4bf9-b952-7fa43f6c59a6,structure of Smartphones Operating System,architecture of smartphone operating systems,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-21T04:41:48.458717+00:00
 4ba9f410-2c3c-4900-8e12-c02461093265,student-teacherbased SSL model,student-teacher framework,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-03-03T16:46:59.295447+00:00
 b6834707-4ec7-469c-acad-6b32693e2434,studying route,learning path,general,General,Learning Paths,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.85,2026-01-20T08:11:58.780182+00:00
@@ -8135,9 +8147,11 @@ b0ba64c2-ccef-4a26-b4ad-a77805a119d9,therapeutic determination framework,medical
 c90152d7-067e-43bd-9482-7433088065aa,there prostitutes show,the results show,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.473603+00:00
 12656788-0e11-4d5f-9570-13776b2f4312,The residual sheet is agreed as follows,The rest of the paper is organized as follows,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:02.530908+00:00
 34a33b35-0bb8-4c14-b276-d6c338187956,therisksand risk mitigation,risk assessment and mitigation,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-04-22T04:44:19.926368+00:00
+cc1ef111-2323-4360-8ad9-b82693959a6d,thermal delinquent,thermal runaway,,Engineering,Electrical,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-25T10:29:50.745825+00:00
 09ee1eee-98fa-4143-9f6e-a5920f99aee5,thermal form of solar energy,thermal energy,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T12:17:14.106539+00:00
 b957fba3-4a28-40c5-bd6c-01950b029aa6,thermal heightening,thermal expansion,general,General,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.95,2026-01-20T08:12:01.373988+00:00
 3573b523-193b-4a36-afe9-e68cd495b502,thermal radiation found the impact,thermal radiation effects,,,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.9,2026-02-27T12:33:40.702814+00:00
+1c998947-8379-4d05-8470-0282fdd993c5,thermic deserter,thermal runaway,,Engineering,Electrical,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-04-25T10:29:50.745825+00:00
 ca3b5ab0-dc79-430a-b52a-78be76f95f96,thermophoresis wonders,thermophoresis effects,general,Economics,,verified,tortured_csv,0,0,0,0.0,likely_tortured,0.9,2026-01-20T08:12:01.978925+00:00
 a359c5d9-1f32-49de-afd2-dbf40a183058,thermostatic instability symptoms,orthostatic intolerance symptoms,,Medicine / Clinical Immunology,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-01-25T06:00:35.265250+00:00
 31553821-d774-4a62-8cc0-6f0003b0de14,thermostatic intolerance,Orthostatic intolerance,,Medicine / Clinical Immunology,,verified,ai_detection,0,0,0,0.0,likely_tortured,0.95,2026-01-25T06:00:35.265250+00:00
